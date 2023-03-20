@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-archive-js",
-    "path": "/archive/",
-    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"date":"2022-11-15","title":"Simple Ledger","tech":["React Native","JavaScript","MongoDB"],"github":"https://github.com/LaszLau/disko-ledger","external":"","company":""},"html":"<p>A simple ledger app for my cat DisKo, to record expenses on his foods, litters, and things.</p>"}},{"node":{"frontmatter":{"date":"2022-10-15","title":"BUAA GPA Calculator","tech":["Python"],"github":"https://github.com/LaszLau/BUAA-GPA-Calculator","external":"","company":""},"html":"<p>A handy and as-nearly-as-official GPA calculator for Beihang University.</p>"}}]}},"pageContext":{}},
-    "staticQueryHashes": ["3115057458"]}
