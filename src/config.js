@@ -4,7 +4,7 @@ module.exports = {
     'Zhaoxun "Laszlo" Liu is a Human-Computer Interaction researcher and game developer.',
   siteKeywords:
     'Zhaoxun "Laszlo" Liu, Zhaoxun, Liu, LaszLau, human-computer interaction, hci, game developer',
-  siteUrl: 'https://lazlau.github.io/',
+  siteUrl: 'https://laszlau.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
@@ -24,7 +24,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/springslau',
+      url: 'https://www.instagram.com/laszlau',
     },
     {
       name: 'Twitter',
