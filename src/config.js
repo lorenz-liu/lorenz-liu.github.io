@@ -10,9 +10,9 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Zhaoxun "Laszlo" Liu',
   location: 'Chengdu, China',
-  email: 'sprlau.me@proton.me',
+  email: 'laszlau@proton.me',
   github: 'https://github.com/LaszLau',
-  twitterHandle: '@SprLau',
+  twitterHandle: '@LaszLau',
   socialMedia: [
     {
       name: 'GitHub',
@@ -28,7 +28,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/SprLau',
+      url: 'https://twitter.com/LaszLau',
     },
   ],
 
