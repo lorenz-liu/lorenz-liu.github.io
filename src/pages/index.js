@@ -3,6 +3,10 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
+const italic = {
+  fontStyle: 'italic',
+};
+
 const Index = () => (
   <Main
     description={'Zhaoxun "Laszlo" Liu, a MScAC at UofT, a Human-Centered AI practitioner, an amateur cellist and guitarist, and a sports enthusiast. '}
@@ -24,17 +28,13 @@ const Index = () => (
         or <Link to="/contact">contact</Link> me.
       </p>
       <p style={italic}>
-        "Part of what made the Macintosh great was that the people working on it
+        &quot;Part of what made the Macintosh great was that the people working on it
         were musicians, and artists... they also happened to be the best
-        computer scientists in the world", saying Steve Jobs
+        computer scientists in the world&quot;, saying Steve Jobs
       </p>
       <p> Source available <a href="https://github.com/LaszLau/LaszLau.github.io">here</a>.</p>
     </article>
   </Main>
 );
-
-const italic = {
-  fontStyle: 'italic',
-};
 
 export default Index;

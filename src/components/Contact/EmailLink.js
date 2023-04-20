@@ -82,7 +82,7 @@ const EmailLink = ({ loopMessage }) => {
       onMouseEnter={() => setIsActive(false)}
       onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
     >
-      <a href={validateText(message) ? `mailto:laszlau@proton.me` : ''} target={'_blank'}>
+      <a href={validateText(message) ? 'mailto:laszlau@proton.me' : ''} target="_blank" rel="noopener noreferrer">
         <span>laszlau</span>
         <span>@proton.me</span>
       </a>

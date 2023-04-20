@@ -13,15 +13,14 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Zhaoxun Liu</h2>
-        <p><a href="mailto:laszlau@proton.me" target={'_blank'}>laszlau@proton.me</a></p>
+        <p><a href="mailto:laszlau@proton.me" target="_blank" rel="noopener noreferrer">laszlau@proton.me</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Zhaoxun "Laszlo" Liu. I am currently pursuing <a href="https://mscac.utoronto.ca">MScAC at UofT</a>.
-        I am a Human-Centered AI practitioner, an amateur cellist and guitarist, and a sports enthusiast.
+        Hi, I&apos;m Zhaoxun &quot;Laszlo&quot; Liu. I am currently pursuing <a href="https://mscac.utoronto.ca">MScAC at UofT</a>. I am a Human-Centered AI practitioner, an amateur cellist and guitarist, and a sports enthusiast.
       </p>
       <ul className="actions">
         <li>
@@ -32,7 +31,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Zhaoxun "Laszlo" Liu.</p>
+      <p className="copyright">&copy; Zhaoxun &quot;Laszlo&quot; Liu.</p>
     </section>
   </section>
 );
