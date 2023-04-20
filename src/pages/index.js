@@ -1,135 +1,33 @@
 import React from 'react';
-import { graphql } from 'gatsby';
-import PropTypes from 'prop-types';
-import { Layout, Hero, About, Jobs, Featured, Projects, Contact } from '@components';
-import styled from 'styled-components';
-import { Main } from '@styles';
+import { Link } from 'react-router-dom';
 
-const StyledMainContainer = styled(Main)`
-  counter-reset: section;
-`;
+import Main from '../layouts/Main';
 
-const IndexPage = ({ location, data }) => (
-  <Layout location={location}>
-    <StyledMainContainer className="fillHeight">
-      <Hero data={data.hero.edges} />
-      <About data={data.about.edges} />
-      <Jobs data={data.jobs.edges} />
-      <Featured data={data.featured.edges} />
-      <Projects data={data.projects.edges} />
-      <Contact data={data.contact.edges} />
-    </StyledMainContainer>
-  </Layout>
+const Index = () => (
+  <Main
+    description={"Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
+    + 'VP of Engineering at Smile Identity, co-founder of Arthena and Matroid, and YC Alumni.'}
+  >
+    <article className="post" id="index">
+      <header>
+        <div className="title">
+          <h2><Link to="/">About this site</Link></h2>
+          <p>
+            A beautiful, responsive, statically-generated,
+            react application written with modern Javascript.
+          </p>
+        </div>
+      </header>
+      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
+        or you can check out my {' '}
+        <Link to="/resume">resume</Link>, {' '}
+        <Link to="/projects">projects</Link>, {' '}
+        view <Link to="/stats">site statistics</Link>, {' '}
+        or <Link to="/contact">contact</Link> me.
+      </p>
+      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
+    </article>
+  </Main>
 );
 
-IndexPage.propTypes = {
-  location: PropTypes.object.isRequired,
-  data: PropTypes.object.isRequired,
-};
-
-export default IndexPage;
-
-export const pageQuery = graphql`
-  {
-    hero: allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/hero/" } }) {
-      edges {
-        node {
-          frontmatter {
-            title
-            name
-            subtitle
-            buttonText
-          }
-          html
-        }
-      }
-    }
-    about: allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/about/" } }) {
-      edges {
-        node {
-          frontmatter {
-            title
-            avatar {
-              childImageSharp {
-                fluid(maxWidth: 700, quality: 90, traceSVG: { color: "#64ffda" }) {
-                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
-                }
-              }
-            }
-            skills
-          }
-          html
-        }
-      }
-    }
-    jobs: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/jobs/" } }
-      sort: { fields: [frontmatter___date], order: DESC }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            title
-            company
-            range
-            url
-          }
-          html
-        }
-      }
-    }
-    featured: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/featured/" } }
-      sort: { fields: [frontmatter___date], order: DESC }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            title
-            cover {
-              childImageSharp {
-                fluid(maxWidth: 700, quality: 90, traceSVG: { color: "#64ffda" }) {
-                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
-                }
-              }
-            }
-            tech
-            github
-            external
-          }
-          html
-        }
-      }
-    }
-    projects: allMarkdownRemark(
-      filter: {
-        fileAbsolutePath: { regex: "/projects/" }
-        frontmatter: { showInProjects: { ne: false } }
-      }
-      sort: { fields: [frontmatter___date], order: DESC }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            title
-            tech
-            github
-            external
-          }
-          html
-        }
-      }
-    }
-    contact: allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/contact/" } }) {
-      edges {
-        node {
-          frontmatter {
-            title
-            buttonText
-          }
-          html
-        }
-      }
-    }
-  }
-`;
+export default Index;
