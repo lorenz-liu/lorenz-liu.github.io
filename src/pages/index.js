@@ -5,29 +5,36 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
-    + 'VP of Engineering at Smile Identity, co-founder of Arthena and Matroid, and YC Alumni.'}
+    description={'Zhaoxun "Laszlo" Liu, a MScAC at UofT, a Human-Centered AI practitioner, an amateur cellist and guitarist, and a sports enthusiast. '}
   >
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2><Link to="/">About this site</Link></h2>
+          <h2>Welcome to My Site</h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            I introduce myself, record myself, and propagate myself here.
           </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
+      <p> Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
+      <p style={italic}>
+        "Part of what made the Macintosh great was that the people working on it
+        were musicians, and artists... they also happened to be the best
+        computer scientists in the world", saying Steve Jobs
+      </p>
+      <p> Source available <a href="https://github.com/LaszLau/LaszLau.github.io">here</a>.</p>
     </article>
   </Main>
 );
+
+const italic = {
+  fontStyle: 'italic',
+};
 
 export default Index;
