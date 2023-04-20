@@ -8,7 +8,7 @@ const { PUBLIC_URL } = process.env; // set automatically from package.json:homep
 const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
-      <Link to="/About" className="logo">
+      <Link to="/about" className="logo">
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
