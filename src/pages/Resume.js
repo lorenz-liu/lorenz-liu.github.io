@@ -23,11 +23,6 @@ const sections = {
   References: () => <References />,
 };
 
-const horizon = {
-  display: 'flex',
-  alignItems: 'end',
-};
-
 const Resume = () => (
   <Main
     title="Resume"
@@ -36,14 +31,12 @@ const Resume = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <div style={horizon}>
-            <h2><Link to="resume">Resume</Link></h2>
-            <p style={{ marginLeft: 10, fontSize: 14 }}>
-              <a href="https://baidu.com" target="_blank" rel="noreferrer">
-                PDF Version
-              </a>
-            </p>
-          </div>
+          <p>
+            <a href="https://baidu.com" target="_blank" rel="noreferrer">
+              PDF Version
+            </a>
+          </p>
+          <h2><Link to="resume">Resume</Link></h2>
           <div className="link-container">
             {Object.keys(sections).map((sec) => (
               <h4 key={sec}>
