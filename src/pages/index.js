@@ -32,7 +32,6 @@ const Index = () => (
         were musicians, and artists... they also happened to be the best
         computer scientists in the world&quot;, saying Steve Jobs
       </p>
-      <p> Source available <a href="https://github.com/LaszLau/LaszLau.github.io" target="_blank" rel="noopener noreferrer">here</a>.</p>
     </article>
   </Main>
 );

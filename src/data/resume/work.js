@@ -13,156 +13,65 @@
  */
 const work = [
   {
-    name: 'Smile Identity',
-    position: 'VP Engineering & Head of AI',
-    url: 'https://smileidentity.com',
-    startDate: '2022-01-01',
-    summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
-    used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
-    I provide technical leadership on high-impact projects, influence and coach a distributed team of engineers,
-    and facilitate alignment and clarity across teams on goals, outcomes, and timelines. I was promoted
-    from Director of Engineering to VP of Engineering in April 2022, and then to VP of Engineering and Head
-    of AI in November 2022. I lead a 20+ person engineering org. I directly manage ~8 engineers and spend
-    >50% of my time writing code.`,
+    name: 'Ubisoft Entertainment SA',
+    position: 'Intern Gameplay Programmer',
+    url: 'https://www.ubisoft.com/',
+    startDate: '2022-09-01',
+    endDate: '2023-03-01',
+    summary: "Ubisoft is a leading video game company that develops and publishes popular game franchises such as Assassin's Creed, Far Cry, and Tom Clancy's Rainbow Six. Chengdu Studio's representative work is the Rabbids series. ",
     highlights: [
-      'Redesigned engineering processes for bug tracking, meetings, and standups. Improved culture for code reviews, blameless post-mortems, and retrospectives.',
-      'Re-architected engineering hiring and onboarding processes. Recruited several strong engineers.',
-      'Reorged engineering teams to focus on product delivery. Created a new team to focus on ML infrastructure.',
-      'Lead re-design of internal APIs for inference. Built new computer vision pipelines for industry leading certifications (NIST/iBeta liveness).',
-      'Pitched, designed, developed, deployed, and maintain a fraud detection product based on 1-N facial recognition using embeddings and vector search.',
+      'Being responsible for developing, debugging, and optimizing the performance of the interactive and logic system of an AAA-level video game\'s DLCs (downloadable content) using C# and Unity3D. ',
+      'Managing projects with JIRA and Confluence, controlling code versions using Perforce, and complying with Agile principles.',
     ],
   },
   {
-    name: 'Skeptical Investments',
-    position: 'Co-founder',
-    url: 'http://skepticalinvestments.biz',
-    startDate: '2017-04-01',
-    summary: `Skeptical Investments is a micro-vc fund focused on Angel, Seed, and Series-A
-    YC companies.`,
+    name: 'XDiscovery Lab @ Dartmouth College',
+    position: 'Intern Researcher',
+    url: 'https://www.cs.dartmouth.edu/~hci/',
+    startDate: '2022-05-01',
+    endDate: '2022-09-01',
+    summary: 'We work on a wide spectrum of topics in human-computer interaction (HCI) with a specific emphasis on developing post-touchscreen hardware and software interactive systems, including new input/output technologies, interaction techniques, and novel augmentations for mobile and wearable devices. ',
     highlights: [
-      'Created the InstaSafe. Fast, automated investment docs for YC companies.',
-      'Advise several startups in the fund.',
+      'Devised a novel text entry method that composes scattered keywords into a natural and clear sentence, which may help exaggerate the importance of human factors in studying natural language processing by, in this particular project, observing how people consider keywords.',
+      'Designed and developed a keyword extractor using BERT from huggingface.io. ',
+      'Retrained the model based on the prompt-based approach to give three different semantic candidate sentences. ',
+      'Developed a web application to enable more people to participate in our user study. Designed and implemented the UI with React framework. Stored data in MongoDB and used ExpressJS as the backend framework.',
     ],
   },
   {
-    name: 'Arthena',
-    position: 'Co-founder & C.T.O.',
-    url: 'https://arthena.com',
-    startDate: '2014-01-01',
-    endDate: '2022-01-01',
-    summary: `Arthena is a Series A Company funded by <a href="https://www.anthemis.com/">Athemis</a>,
-    <a href="https://foundationcapital.com">Foundation Capital</a>, and <a href="https://ycombinator.com/">YC</a>.
-    We develop quantitative strategies to predict the value of fine art and build investment products.
-    I ran a 20-person product and engineering org for 8 years. We were acquired by
-    <a href="https://www.masterworks.com/">Masterworks</a> in 2023.`,
+    name: 'State Key Laboratory of Virtual Reality Technology and Systems',
+    position: 'Researcher',
+    url: 'http://vrlab.buaa.edu.cn/',
+    startDate: '2021-09-01',
+    endDate: '2022-02-20',
+    summary: 'I led the team to devise CrossKeys, a novel and efficient text entry technique for virtual reality (VR) using a single controller via wrist rotation, which unprecedentedly employs the three-dimensional space a virtual environment can provide and outperforms the state-of-the-art method. ',
     highlights: [
-      'Built production, online, end-to-end optimized machine learning pipelines for time-series prediction.',
-      'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      "Set and communicated team priorities that supported the broader organization's goals. Aligned strategy, processes, and decision-making across teams.",
-      "Set clear expectations with individuals based on their level and role and aligned them to the broader organization's goals. Met regularly with individuals to discuss performance and development, and provided feedback and coaching.",
-      'Developed the long-term technical vision and roadmap within, and often beyond, the scope of my teams. Evolved the roadmap to meet anticipated future requirements and infrastructure needs.',
+      'Realized ideas and implemented responsive components, auto-completing prediction algorithm, user interface design, ergonomics-mathematical deduction, and 3D modeling. ',
+      'Organized the project and published it to IEEE VR 2023 as the first author.',
     ],
   },
   {
-    name: 'Enveritas',
-    position: 'ML Engineering Contractor',
-    url: 'http://enveritas.org',
-    startDate: '2016-09-01',
-    endDate: '2018-01-01',
-    summary: `Enveritas is a non-profit that works with coffee farmers to improve their livelihoods.
-    I joined on day one and helped build a variety of tools to collect and analyze data. I also advised
-    on technical strategy, helped hire engineers, and advised on their YC application.`,
+    name: 'State Key Laboratory of Software Development Environment',
+    position: 'Intern Researcher',
+    url: 'http://www.nlsde.buaa.edu.cn/',
+    startDate: '2021-03-01',
+    endDate: '2021-12-01',
+    summary: "I developed Cross-Attention ReID, a state-of-the-art approach to realizing pedestrians' re-identification based on training with large-scale datasets generated by single-channeled IR cameras and three-channeled RGB cameras.",
     highlights: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM\'s, and other techniques.',
+      'Surveyed literature and applied existing theories to code with high performance and robustness. ',
+      'Conducted quantitative analysis and results assessment with datasets like SYSU-MM01 and RegDB. ',
     ],
   },
   {
-    name: 'Zenysis',
-    position: 'Software Engineering Contractor',
-    url: 'https://zenysis.com',
-    startDate: '2016-02-01',
-    endDate: '2016-03-01',
-    summary: `Zenysis develops data analysis and visualization tools for government agencies and international organizations.
-    Their solutions help improve decision-making by integrating and analyzing large-scale datasets from various sources.
-    I was the second contributor to the codebase. We built data visualization tools and tackled complex data ingestion
-    challenges for the Ethiopian Ministry of Health.`,
+    name: 'BNRist',
+    position: 'Intern Researcher',
+    url: 'https://www.bnrist.tsinghua.edu.cn/',
+    startDate: '2020-10-01',
+    endDate: '2021-01-30',
+    summary: 'Refined a CVPR accepted project <a href="https://arxiv.org/abs/2012.06087">Monocular Real-time Full Body Capture with Inter-part Correlations</a>',
     highlights: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
-    ],
-  },
-  {
-    name: 'Matroid',
-    position: 'Co-founder',
-    url: 'https://matroid.com',
-    startDate: '2015-07-01',
-    endDate: '2016-01-01',
-    summary: `Matroid is a computer vision platform for creating and deploying detectors. Detectors help customers identify objects,
-    events, or patterns in images and videos without requiring machine learning or coding expertise. I played a crucial role in
-    defining the company's vision. I was responsible for architecting and building the initial product. I left shortly after the
-    Series A to focus on Arthena.`,
-    highlights: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Caffe, Node.JS, Redis, MongoDB, and other technologies.',
-    ],
-  },
-  {
-    name: 'Planet',
-    position: 'Missions Intern',
-    url: 'https://planet.com',
-    startDate: '2014-06-01',
-    endDate: '2015-01-01',
-    highlights: [
-      'Built models to improve image quality, signal to noise ratio, and dynamic range.',
-      'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
-      'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
-    ],
-  },
-  {
-    name: 'Planetary Resources',
-    position: 'Avionics Intern',
-    startDate: '2014-01-01',
-    endDate: '2014-05-01',
-    url: 'http://planetaryresources.com',
-    highlights: [
-      'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
-      'Developed processes for in lab testing and characterization of various subsystems.',
-      'Assembled flight hardware in cleanroom.',
-    ],
-  },
-  {
-    name: 'Facebook',
-    position: 'Software Engineer Intern',
-    url: 'https://facebook.com',
-    startDate: '2013-06-01',
-    endDate: '2013-09-01',
-    highlights: [
-      'Developed software in python for automated testing of servers.',
-      'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
-      'Worked with vendors and ODM\'s during triage to assist in risk mitigation.',
-    ],
-  },
-  {
-    name: 'SEDS-USA',
-    position: 'At Large Board Member',
-    url: 'http://seds.org',
-    startDate: '2013-10-01',
-    endDate: '2014-10-01',
-    highlights: [
-      'Elected to Board of Directors of the USA\'s largest student space advocacy group based on 5+ years of work with SEDS.',
-      'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
-    ],
-  },
-  {
-    name: 'UB Nanosatellite Program',
-    position: 'Co-founder, Program Manager',
-    url: 'https://ubnl.space/',
-    startDate: '2010-10-01',
-    endDate: '2012-06-01',
-    highlights: [
-      'Coauthored grant to build a multi-spectral imaging satellite as part of the AFRL University Nanosatellite Program.',
-      'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
+      'Implemented unsupervised training via differentiable renderers.',
+      'Conducted quantitative analysis with PCA (Principal Component Analysis) and cross-datasets tests with datasets like Basel Face Model and 3DMM Face Model.',
     ],
   },
 ];

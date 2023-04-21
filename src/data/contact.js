@@ -11,7 +11,7 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: '/contact',
+    link: 'https://laszlau.github.io/contact/',
     label: 'WeChat',
     icon: faWeixin,
   },
