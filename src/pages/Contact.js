@@ -8,7 +8,7 @@ import ContactIcons from '../components/Contact/ContactIcons';
 const WeChatPart = () => (
   <div className="email-at">
     <p>
-      Feel free to get in touch. My WeChat ID: <br />
+      Feel free to get in touch! My WeChat ID: <br />
     </p>
     <a href="/contact">
       LuvPungGaw
@@ -18,7 +18,7 @@ const WeChatPart = () => (
 
 const EmailPart = () => (
   <div className="email-at">
-    <p>Feel free to get in touch. You can email me at: </p>
+    <p>Or, you can email me at: </p>
     <EmailLink />
   </div>
 );
