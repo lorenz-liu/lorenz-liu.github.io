@@ -20,7 +20,10 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Zhaoxun &quot;Laszlo&quot; Liu. I am currently pursuing <a href="https://mscac.utoronto.ca">MScAC at UofT</a>. I am a Human-Centered AI practitioner, an amateur cellist and guitarist, and a sports enthusiast.
+        Hi, I&apos;m Zhaoxun &quot;Laszlo&quot; Liu. <br />
+        I am currently pursuing <a href="https://mscac.utoronto.ca">MScAC at UofT</a>.
+        I am an HCI & human-centered AI practitioner, an amateur cellist and guitarist,
+        and a sports enthusiast.
       </p>
       <ul className="actions">
         <li>

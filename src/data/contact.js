@@ -1,3 +1,4 @@
+import { faWeixin } from '@fortawesome/free-brands-svg-icons/faWeixin';
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 // import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
 // import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
@@ -10,15 +11,15 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
+    link: '/contact',
+    label: 'WeChat',
+    icon: faWeixin,
+  },
+  {
     link: 'https://github.com/LaszLau',
     label: 'Github',
     icon: faGithub,
   },
-  // {
-  //   link: 'https://facebook.com/d',
-  //   label: 'Facebook',
-  //   icon: faFacebookF,
-  // },
   // {
   //   link: 'https://www.instagram.com/dangelosaurus/',
   //   label: 'Instagram',

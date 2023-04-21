@@ -5,10 +5,28 @@ import Main from '../layouts/Main';
 import EmailLink from '../components/Contact/EmailLink';
 import ContactIcons from '../components/Contact/ContactIcons';
 
+const WeChatPart = () => (
+  <div className="email-at">
+    <p>
+      Feel free to get in touch. My WeChat ID: <br />
+    </p>
+    <a href="/contact">
+      LuvPungGaw
+    </a>
+  </div>
+);
+
+const EmailPart = () => (
+  <div className="email-at">
+    <p>Feel free to get in touch. You can email me at: </p>
+    <EmailLink />
+  </div>
+);
+
 const Contact = () => (
   <Main
     title="Contact"
-    description='Contact Zhaoxun "Laszlo" Liu via email: laszlau@proton.me'
+    description='Contact Zhaoxun "Laszlo" Liu'
   >
     <article className="post" id="contact">
       <header>
@@ -16,10 +34,8 @@ const Contact = () => (
           <h2><Link to="/contact">Contact</Link></h2>
         </div>
       </header>
-      <div className="email-at">
-        <p>Feel free to get in touch. You can email me at: </p>
-        <EmailLink />
-      </div>
+      <WeChatPart />
+      <EmailPart />
       <ContactIcons />
     </article>
   </Main>
