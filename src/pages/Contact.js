@@ -10,9 +10,9 @@ const WeChatPart = () => (
     <p>
       Feel free to get in touch! My WeChat ID: <br />
     </p>
-    <a href="https://laszlau.github.io/contact/">
+    <b>
       LuvPungGaw
-    </a>
+    </b>
   </div>
 );
 

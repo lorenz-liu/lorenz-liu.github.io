@@ -68,10 +68,22 @@ const work = [
     url: 'https://www.bnrist.tsinghua.edu.cn/',
     startDate: '2020-10-01',
     endDate: '2021-01-30',
-    summary: 'Refined a CVPR accepted project <a href="https://arxiv.org/abs/2012.06087">Monocular Real-time Full Body Capture with Inter-part Correlations</a>',
+    summary: 'Refined a CVPR accepted project <a href="https://arxiv.org/abs/2012.06087">Monocular Real-time Full Body Capture with Inter-part Correlations</a>. ',
     highlights: [
       'Implemented unsupervised training via differentiable renderers.',
       'Conducted quantitative analysis with PCA (Principal Component Analysis) and cross-datasets tests with datasets like Basel Face Model and 3DMM Face Model.',
+    ],
+  },
+  {
+    name: 'School of Computer Science and Engineering, Beihang Univeristy',
+    position: 'Teaching Assistant',
+    url: 'https://scse.buaa.edu.cn',
+    startDate: '2020-05-01',
+    endDate: '2020-06-30',
+    summary: '"Data Structures and Programming" is a compulsory course for freshmen. It equips entry-level students abilities to understand elemental data structures and algorithms and apply them into practices, which is very essential. ',
+    highlights: [
+      'Designed coursework assignments and tested the coding platform.',
+      'Solving unexpected problems reported by students when using the coding platform.',
     ],
   },
 ];
