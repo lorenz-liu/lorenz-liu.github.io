@@ -35,7 +35,6 @@ const Index = () => (
       <p>
         Visitors since the very first beginning:
       </p>
-      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=bR57N-iXcu_la9k5JdvpKa6scUwEiCpJeRKLSUVdTNk" />
     </article>
   </Main>
 );
