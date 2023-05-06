@@ -32,6 +32,12 @@ const Index = () => (
         were musicians, and artists... they also happened to be the best
         computer scientists in the world&quot;, saying Steve Jobs
       </p>
+      <p>
+        Visitors since the very first beginning:
+      </p>
+      <body>
+        <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=d1d1d1&w=300&t=tt&d=bR57N-iXcu_la9k5JdvpKa6scUwEiCpJeRKLSUVdTNk&co=ffffff&cmo=6c5789&ct=808080&cmn=ff5353" />
+      </body>
     </article>
   </Main>
 );
