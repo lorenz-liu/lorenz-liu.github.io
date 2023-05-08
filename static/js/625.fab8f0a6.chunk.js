@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklaszlau_site=self.webpackChunklaszlau_site||[]).push([[625],{9625:function(a,s,e){a.exports=e.p+"static/media/about.647f57baf7264ef641ad.md"}}]);
