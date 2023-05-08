@@ -30,11 +30,9 @@ const Index = () => (
       <p style={italic}>
         &quot;Part of what made the Macintosh great was that the people working on it
         were musicians, and artists... they also happened to be the best
-        computer scientists in the world&quot;, saying Steve Jobs
+        computer scientists in the world&quot;, saying Steve Jobs.
       </p>
-      <p>
-        Visitors since the very first beginning:
-      </p>
+      <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=d1d1d1&w=a&t=tt&d=bR57N-iXcu_la9k5JdvpKa6scUwEiCpJeRKLSUVdTNk&co=ffffff&cmo=3f58aa&cmn=449844&ct=808080" />
     </article>
   </Main>
 );
