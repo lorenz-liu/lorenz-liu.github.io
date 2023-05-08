@@ -47,12 +47,12 @@ const skills = [
   {
     title: 'Unity',
     competency: 5,
-    category: ['Research (HCI/AI)', 'Tool'],
+    category: ['Research (HCI/AI/Gaming)', 'Tool'],
   },
   {
     title: 'PyTorch',
     competency: 4,
-    category: ['Research (HCI/AI)'],
+    category: ['Research (HCI/AI/Gaming)'],
   },
   {
     title: 'React Native',
@@ -77,12 +77,12 @@ const skills = [
   {
     title: 'NumPy',
     competency: 5,
-    category: ['Research (HCI/AI)', 'Tool'],
+    category: ['Research (HCI/AI/Gaming)', 'Tool'],
   },
   {
     title: 'Matplotlib',
     competency: 4,
-    category: ['Research (HCI/AI)', 'Tool'],
+    category: ['Research (HCI/AI/Gaming)', 'Tool'],
   },
   {
     title: 'JIRA',

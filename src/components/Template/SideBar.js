@@ -22,8 +22,10 @@ const SideBar = () => (
       <p>
         Hi, I&apos;m Zhaoxun &quot;Laszlo&quot; Liu. <br />
         I am currently pursuing <a href="https://mscac.utoronto.ca">MScAC at UofT</a>.
-        I am an HCI & human-centered AI practitioner, an amateur cellist and guitarist,
-        and a sports enthusiast.
+        My interests fall in the broad area of HCI,
+        focusing on human-centered AI, extended reality and gaming technologies.
+        For my leisure, I enjoy being a cellist, guitarist, and a sports enthusiast. <br />
+        🥂 Cheers!
       </p>
       <ul className="actions">
         <li>
