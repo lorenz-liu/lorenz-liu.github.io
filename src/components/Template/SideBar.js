@@ -20,7 +20,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Zhaoxun &quot;Laszlo&quot; Liu. <br />
+        Hi, I&apos;m Zhaoxun &quot;Lorenz&quot; Liu. <br />
         I am currently pursuing <a href="https://mscac.utoronto.ca">MScAC at UofT</a>.
         My interests fall in the broad area of HCI,
         focusing on human-centered AI, extended reality and gaming technologies.
