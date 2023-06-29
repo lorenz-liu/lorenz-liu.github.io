@@ -1,7 +1,7 @@
 
 # Intro
 
-Greetings! This is Zhaoxun "Laszlo" Liu, going by he/him/his. 
+Greetings! This is Zhaoxun "Lorenz" Liu, going by he/him/his. 
 
 I am currently pursuing my **Master of Science in Applied Computing** at the **University of Toronto**. 
 My work sits at the broad area of **human-computer interaction (HCI)**, with specific interests in **human-centered artificial intelligence**, **extended reality**, and **gaming technologies**. 
