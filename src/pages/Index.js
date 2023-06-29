@@ -9,7 +9,7 @@ const italic = {
 
 const Index = () => (
   <Main
-    description={'Zhaoxun "Laszlo" Liu, a MScAC at UofT, an HCI practitioner, an amateur cellist and guitarist, and a sports enthusiast. '}
+    description={'Zhaoxun "Lorenz" Liu, a MScAC at UofT, an HCI practitioner, an amateur cellist and guitarist, and a sports enthusiast. '}
   >
     <article className="post" id="index">
       <header>

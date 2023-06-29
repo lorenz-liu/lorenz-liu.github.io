@@ -13,7 +13,7 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Zhaoxun Liu</h2>
-        <p><a href="mailto:laszlau@proton.me" target="_blank" rel="noopener noreferrer">laszlau@proton.me</a></p>
+        <p><a href="mailto:zhaoxun.liu@proton.me" target="_blank" rel="noopener noreferrer">zhaoxun.liu@proton.me</a></p>
       </header>
     </section>
 
@@ -36,7 +36,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Zhaoxun &quot;Laszlo&quot; Liu.</p>
+      <p className="copyright">&copy; Zhaoxun &quot;Lorenz&quot; Liu.</p>
     </section>
   </section>
 );

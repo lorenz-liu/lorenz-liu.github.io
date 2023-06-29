@@ -26,7 +26,7 @@ const EmailPart = () => (
 const Contact = () => (
   <Main
     title="Contact"
-    description='Contact Zhaoxun "Laszlo" Liu'
+    description='Contact Zhaoxun "Lorenz" Liu'
   >
     <article className="post" id="contact">
       <header>
