@@ -1,11 +1,11 @@
 {
-  "name": "laszlau-site",
+  "name": "lorenzl-site",
   "version": "1.0.0",
-  "homepage": "https://laszlau.github.io",
+  "homepage": "https://gitlorenzl.github.io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LaszLau/LaszLau.github.io"
+    "url": "https://github.com/GitLorenzL/GitLorenzL.github.io"
   },
   "engines": {
     "node": ">=14.x"
