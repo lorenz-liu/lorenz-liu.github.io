@@ -1,4 +1,4 @@
-# LorenzL | Zhaoxun Liu's Personal Page
+# GitLorenzL | Zhaoxun Liu's Personal Page
 
 ## Deployment
 
