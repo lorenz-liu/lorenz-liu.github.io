@@ -16,7 +16,7 @@ const data = [
     icon: faWeixin,
   },
   {
-    link: 'https://github.com/LaszLau',
+    link: 'https://github.com/GitLorenzL',
     label: 'Github',
     icon: faGithub,
   },
@@ -26,7 +26,7 @@ const data = [
   //   icon: faInstagram,
   // },
   {
-    link: 'https://www.linkedin.com/in/LaszLau',
+    link: 'https://www.linkedin.com/in/Zhaoxun-Lorenz-Liu',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
@@ -41,7 +41,7 @@ const data = [
   //   icon: faTwitter,
   // },
   {
-    link: 'mailto:laszlau@proton.me',
+    link: 'mailto:zhaoxun.liu@proton.me',
     label: 'Email',
     icon: faEnvelope,
   },
