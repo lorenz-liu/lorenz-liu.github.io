@@ -21,8 +21,9 @@ For leisure, I enjoy playing cello and guitar; I also love basketball, cycling, 
 
 # Hobbyist Favorites
 
-* Food: Szechuan and Thai cuisine
+* Food: Szechuan, Korean, and Thai cuisine
 * Brand: Apple
+* Band: Eagles
 * Artist: Claude Monet
 * Composer: Antonín Dvořák
 * Soccer Player: Lionel Messi
