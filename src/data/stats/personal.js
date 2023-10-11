@@ -56,7 +56,7 @@ const data = [
   },
   {
     key: 'practice',
-    label: 'Practice in CS',
+    label: 'Practice in Computer Science',
     value: <Practice />,
   },
 ];
