@@ -45,7 +45,7 @@ const useInterval = (callback, delay) => {
   }, [delay]);
 };
 
-const EmailLink = ({ loopMessage }) => {
+const EmailLink = ({ loopMessage, mail }) => {
   const hold = 50; // ticks to wait after message is complete before rendering next message
   const delay = 50; // tick length in mS
 
@@ -82,9 +82,8 @@ const EmailLink = ({ loopMessage }) => {
       onMouseEnter={() => setIsActive(false)}
       onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
     >
-      <a href={validateText(message) ? 'mailto:zhaoxun.liu@proton.me' : ''} target="_blank" rel="noopener noreferrer">
-        <span>zhaoxun.liu</span>
-        <span>@proton.me</span>
+      <a href={validateText(message) ? (`mailto:${mail}`) : ''} target="_blank" rel="noopener noreferrer">
+        <span>{mail}</span>
       </a>
     </div>
   );
@@ -96,6 +95,7 @@ EmailLink.defaultProps = {
 
 EmailLink.propTypes = {
   loopMessage: PropTypes.bool,
+  mail: PropTypes.string.isRequired,
 };
 
 export default EmailLink;

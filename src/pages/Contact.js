@@ -19,7 +19,10 @@ const WeChatPart = () => (
 const EmailPart = () => (
   <div className="email-at">
     <p>Or, you can email me at: </p>
-    <EmailLink />
+    <EmailLink mail="zhaoxun.liu@proton.me" />
+    <p style={{ marginTop: '4%' }}>If it is for academic or professional purposes, preferably: </p>
+    <EmailLink mail="zhaoxun.liu@mail.utoronto.ca" />
+    <EmailLink mail="lorenz@cs.toronto.edu" />
   </div>
 );
 
