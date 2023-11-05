@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunklorenzl_site=self.webpackChunklorenzl_site||[]).push([[273],{273:function(e,n,s){s.r(n);s(2791);var l=s(184);n.default=function(){return(0,l.jsxs)("div",{children:["TO BE CONSTRUCTED.",(0,l.jsx)("a",{href:"/blogs",children:"GO BACK"})]})}}}]);
-//# sourceMappingURL=273.d18b1ead.chunk.js.map
