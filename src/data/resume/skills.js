@@ -1,7 +1,7 @@
 const skills = [
   {
     title: 'C++',
-    competency: 3,
+    competency: 4,
     category: ['Programming'],
   },
   {
@@ -16,7 +16,7 @@ const skills = [
   },
   {
     title: 'Java',
-    competency: 3,
+    competency: 4,
     category: ['Programming'],
   },
   {
@@ -71,6 +71,16 @@ const skills = [
   },
   {
     title: 'MongoDB',
+    competency: 3,
+    category: ['Software Development', 'Tool'],
+  },
+  {
+    title: 'Google Firebase',
+    competency: 4,
+    category: ['Software Development', 'Tool'],
+  },
+  {
+    title: 'Amazon Web Services',
     competency: 3,
     category: ['Software Development', 'Tool'],
   },
