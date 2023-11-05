@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cca426a1-8a07-47b7-99de-d36e86bca85b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/BlogDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/blogs/deploy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/blogs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/resume/degrees.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/resume/degrees.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/BlogDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/BlogDetail.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2Wdbdg7UcKdVq69sjWvJ0JlielP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
