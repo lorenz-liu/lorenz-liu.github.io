@@ -1,7 +1,7 @@
 const data = [
   {
     title: 'How to deploy my undergraduate graduation project',
-    link: 'https://github.com/',
+    link: '/blogs/deploy.md',
     date: '2023-04-20',
   },
 ];

@@ -16,6 +16,7 @@ const Projects = lazy(() => import('./pages/Projects'));
 const Blogs = lazy(() => import('./pages/Blogs'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Stats = lazy(() => import('./pages/Stats'));
+const BlogDetail = lazy(() => import('./pages/BlogDetail'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -25,6 +26,7 @@ const App = () => (
         <Route path="/about" element={<About />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/blogs" element={<Blogs />} />
+        <Route path="/blogs/:blog" element={<BlogDetail />} />
         <Route path="/stats" element={<Stats />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/resume" element={<Resume />} />
