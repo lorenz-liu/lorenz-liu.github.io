@@ -30,7 +30,7 @@ const BlogDetail = () => {
         <header>
           <div className="title">
             <a href="/blogs">GO BACK</a>
-            <h2><Link to="/about">BlogDetail (TO BE COMPLETED)</Link></h2>
+            <h2><Link to="/about">{blog}</Link></h2>
             <p>(in about {count} words)</p>
           </div>
         </header>

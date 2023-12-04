@@ -20,12 +20,12 @@ const work = [
     endDate: '2023-03-01',
     summary: "Ubisoft is a leading video game company that develops and publishes popular game franchises such as Assassin's Creed, Far Cry, and Tom Clancy's Rainbow Six. Chengdu Studio's representative work is the Rabbids series. ",
     highlights: [
-      'Being responsible for developing, debugging, and optimizing the performance of the interactive and logic system of an AAA-level video game\'s DLCs (downloadable content) using C# and Unity3D. ',
-      'Managing projects with JIRA and Confluence, controlling code versions using Perforce, and complying with Agile principles.',
+      'Spearheaded the enhancement of an AAA-level video game’s downloadable contents (DLCs), excelling in C# and Unity3D for development, debugging, and performance optimization.',
+      'Achieved notable improvements in DLC performance and functionality, streamlined project workflows with Perforce and Confluence, and successfully delivered high-quality content.',
     ],
   },
   {
-    name: 'XDiscovery Lab @ Dartmouth College',
+    name: 'XDiscovery Lab, Dartmouth College',
     position: 'Intern Researcher',
     url: 'https://www.cs.dartmouth.edu/~hci/',
     startDate: '2022-05-01',
@@ -63,7 +63,7 @@ const work = [
     ],
   },
   {
-    name: 'BNRist',
+    name: 'BNRist, Tsinghua University',
     position: 'Intern Researcher',
     url: 'https://www.bnrist.tsinghua.edu.cn/',
     startDate: '2020-10-01',

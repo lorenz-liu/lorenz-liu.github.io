@@ -16,7 +16,7 @@ const Index = () => (
         <div className="title">
           <h2>Welcome to My Site</h2>
           <p>
-            I introduce myself, record myself, and propagate myself here.
+            I am trying my best to keep this website up-to-date.
           </p>
         </div>
       </header>
