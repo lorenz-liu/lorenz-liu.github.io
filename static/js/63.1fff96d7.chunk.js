@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklorenzl_site=self.webpackChunklorenzl_site||[]).push([[63],{2063:function(e,s,o){e.exports=o.p+"static/media/cookbook.b4a4fa73475f491abc2f.md"}}]);

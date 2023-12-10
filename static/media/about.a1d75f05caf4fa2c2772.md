@@ -3,13 +3,13 @@
 
 Greetings! This is Zhaoxun "Lorenz" Liu, going by he/him/his. 
 
-I am currently pursuing my **Master of Science in Applied Computing** at the **University of Toronto**. 
+I am currently pursuing my **[Master of Science in Applied Computing](https://mscac.utoronto.ca/)** at the **[Department of Computer Science, University of Toronto](https://web.cs.toronto.edu/)**. 
 My work sits at the broad area of **human-computer interaction (HCI)**, with specific interests in **human-AI interaction**, **extended reality**, and **gaming technologies**. 
 My goal is to create intelligent interactive systems that prioritize the needs, capabilities, and perspectives of humans to enhance their overall experience and well-being.
 
 My most interested academic communities: **[ACM CHI](https://dl.acm.org/conference/chi)**, **[NeurIPS](https://nips.cc/)**. 
 
-Prior to this, I finished my undergraduate study at the **School of Computer Science and Engineering, Beihang University (Beijing, China)**, from which I receive my **B.Eng. in Computer Science and Technology**.
+Prior to this, I finished my undergraduate study at the **[School of Computer Science and Engineering, Beihang University (Beijing, China)](https://scse.buaa.edu.cn/)**, from which I receive my **B.Eng. in Computer Science and Technology**.
 
 For leisure, I enjoy playing cello and guitar; I also love billiard, basketball, cycling, swimming, soccer, and badminton. 
 
