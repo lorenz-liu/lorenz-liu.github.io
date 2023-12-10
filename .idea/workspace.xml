@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cca426a1-8a07-47b7-99de-d36e86bca85b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/data/blogs/merge-pdfs.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Template/SideBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Template/SideBar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/blogs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/blogs/cookbook.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogs/cookbook.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,8 @@
       <workItem from="1699040011131" duration="620000" />
       <workItem from="1699121492091" duration="1974000" />
       <workItem from="1701650755803" duration="2184000" />
-      <workItem from="1702172306321" duration="2248000" />
+      <workItem from="1702172306321" duration="2950000" />
+      <workItem from="1702239511802" duration="771000" />
     </task>
     <servers />
   </component>
