@@ -24,8 +24,8 @@ const Index = () => (
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+        view <Link to="/stats">statistics of mine</Link>, {' '}
+        or <Link to="/contact">contact me</Link>.
       </p>
       <p style={italic}>
         &quot;Part of what made the Macintosh great was that the people working on it

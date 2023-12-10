@@ -22,9 +22,9 @@ const SideBar = () => (
       <p>
         Hi, I&apos;m Zhaoxun &quot;Lorenz&quot; Liu. <br />
         I am currently pursuing <a href="https://mscac.utoronto.ca">MScAC at UofT</a>.
-        My interests fall in the broad area of HCI,
+        My interests fall in the broad area of AI-driven HCI,
         focusing on human-AI interaction, extended reality and gaming technologies.
-        For my leisure, I enjoy being a cellist, guitarist, and a sports enthusiast. <br />
+        For my leisure, I enjoy being an amateur cellist, guitarist, and a sports enthusiast. <br />
         🥂 Cheers!
       </p>
       <ul className="actions">

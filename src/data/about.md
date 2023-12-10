@@ -5,9 +5,11 @@ Greetings! This is Zhaoxun "Lorenz" Liu, going by he/him/his.
 
 I am currently pursuing my **Master of Science in Applied Computing** at the **University of Toronto**. 
 My work sits at the broad area of **human-computer interaction (HCI)**, with specific interests in **human-AI interaction**, **extended reality**, and **gaming technologies**. 
-My goal is to design and develop interactive systems that prioritize the needs, capabilities, and perspectives of humans to enhance their overall experience and well-being.
+My goal is to create intelligent interactive systems that prioritize the needs, capabilities, and perspectives of humans to enhance their overall experience and well-being.
 
-Prior to this, I finished my undergraduate study at the **School of Computer Science and Engineering, Beihang University**, from which I receive my **B.Eng. in Computer Science and Technology**.
+My most interested academic communities: **[ACM CHI](https://dl.acm.org/conference/chi)**, **[NeurIPS](https://nips.cc/)**. 
+
+Prior to this, I finished my undergraduate study at the **School of Computer Science and Engineering, Beihang University (Beijing, China)**, from which I receive my **B.Eng. in Computer Science and Technology**.
 
 For leisure, I enjoy playing cello and guitar; I also love billiard, basketball, cycling, swimming, soccer, and badminton. 
 
@@ -15,9 +17,9 @@ For leisure, I enjoy playing cello and guitar; I also love billiard, basketball,
 
 **In One Word:** Synergy.
 
-**In One Sentence:** The synergy of HCI and AI can result in the creation of AI systems that are both intelligent and empathetic, with a focus on enhancing the human experience.
+**In One Sentence:** The intersection of HCI and AI represents a synergy between human-centered design and advanced machine intelligence, fostering seamless and intuitive user experiences.
 
-**In One Paragraph:** The intersection of HCI and AI represents a synergy of two fields that are critical to the development of AI systems that are aligned with human needs and values. Human-centered AI aims to create AI systems that are designed with human values and ethics in mind, while HCI focuses on creating interfaces and interactive systems that are user-friendly and intuitive. By fusing these two fields, we can create AI systems that are not only intelligent but also empathetic, enhancing the human experience by anticipating and responding to human needs and emotions. This synergy can help overcome the challenges associated with designing and developing AI systems, such as bias, explainability, and trust. It can also help create AI systems that are more inclusive and accessible for all users, regardless of their background or abilities. Ultimately, the synergy of HCI and AI can lead to the creation of AI systems that are both intelligent and empathetic, with a focus on enhancing the human experience and improving the quality of life for all.
+**In One Paragraph:** The intersection of HCI and AI is a captivating convergence that brings together the principles of user-centric design and the capabilities of machine intelligence. At this intersection, HCI leverages AI to create interfaces that understand, adapt to, and anticipate user needs, leading to more intuitive and engaging user experiences. Through the use of natural language processing, computer vision, and machine learning, HCI becomes capable of providing personalized, context-aware interactions, ultimately enhancing the usability and efficiency of digital systems. This dynamic relationship between HCI and AI not only transforms the way we interact with technology but also opens up exciting possibilities for the future of user interface design and human-machine collaboration.
 
 # Hobbyist Favorites
 
