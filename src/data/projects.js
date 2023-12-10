@@ -58,7 +58,7 @@ const data = [
     image: '/images/projects/cat.png',
     date: '2021-10-01',
     desc:
-      'I love cat 😍🐈! A simple CNN (Convolutional Neural Network) to classify different cat breeds. Built with PyTorch 🔥. ',
+      'I love cats 😍 🐈! A simple CNN (Convolutional Neural Network) to classify different cat breeds. Built with PyTorch 🔥. ',
   },
 ];
 
