@@ -68,7 +68,7 @@ const work = [
     url: 'https://www.bnrist.tsinghua.edu.cn/',
     startDate: '2020-10-01',
     endDate: '2021-01-30',
-    summary: 'Refined a CVPR accepted project <a href="https://arxiv.org/abs/2012.06087">Monocular Real-time Full Body Capture with Inter-part Correlations</a>. ',
+    summary: 'Refined a CVPR accepted project <a href="https://arxiv.org/abs/2012.06087" target="_blank" rel="noopener noreferrer">Monocular Real-time Full Body Capture with Inter-part Correlations</a>. ',
     highlights: [
       'Implemented unsupervised training via differentiable renderers.',
       'Conducted quantitative analysis with PCA (Principal Component Analysis) and cross-datasets tests with datasets like Basel Face Model and 3DMM Face Model.',
