@@ -12,7 +12,7 @@ This projects attempts to follow these design principles. Feedback and discussio
 1. Follows [JAMStack best practices](https://jamstack.org/best-practices/). Everything that can be pre-rendered should be pre-rendered.
 1. Time to interact should be very fast (< 250 ms). Optimized for small bundle sizes.
 
-## Good Developer Experience
+## Good Developer Industrial
 
 1. Modular
     - It should be relatively straight forward to replace the content in this repository or to add a new feature.

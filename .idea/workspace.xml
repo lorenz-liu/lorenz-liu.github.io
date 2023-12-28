@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cca426a1-8a07-47b7-99de-d36e86bca85b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Resume/Academic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/resume/academic.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design-goals.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design-goals.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Resume/Education.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Resume/Education.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Resume/Education/Degree.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Resume/Education/Degree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Resume/Experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Resume/Industrial.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Template/SideBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Template/SideBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/BlogDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/BlogDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/resume/degrees.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/resume/degrees.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/resume/work.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/resume/work.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/stats/personal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/stats/personal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Resume.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/css/pages/_resume.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/css/pages/_resume.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -44,21 +50,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/main/Documents/GitHub/GitLorenzL.github.io/src/components/Resume",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Resume" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,7 +88,7 @@
       <workItem from="1702243016093" duration="1467000" />
       <workItem from="1702244825109" duration="434000" />
       <workItem from="1702251092056" duration="7000" />
-      <workItem from="1703792184900" duration="3017000" />
+      <workItem from="1703792184900" duration="5352000" />
     </task>
     <servers />
   </component>

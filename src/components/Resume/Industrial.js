@@ -3,11 +3,11 @@ import PropTypes from 'prop-types';
 
 import Job from './Experience/Job';
 
-const Experience = ({ data }) => (
+const Industrial = ({ data }) => (
   <div className="experience">
     <div className="link-to" id="experience" />
     <div className="title">
-      <h3>Experience</h3>
+      <h3>Industrial</h3>
     </div>
     {data.map((job) => (
       <Job
@@ -18,7 +18,7 @@ const Experience = ({ data }) => (
   </div>
 );
 
-Experience.propTypes = {
+Industrial.propTypes = {
   data: PropTypes.arrayOf(PropTypes.exact({
     name: PropTypes.string,
     position: PropTypes.string,
@@ -30,8 +30,8 @@ Experience.propTypes = {
   })),
 };
 
-Experience.defaultProps = {
+Industrial.defaultProps = {
   data: [],
 };
 
-export default Experience;
+export default Industrial;

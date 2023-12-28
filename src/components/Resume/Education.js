@@ -21,9 +21,11 @@ const Education = ({ data }) => (
 Education.propTypes = {
   data: PropTypes.arrayOf(PropTypes.shape({
     school: PropTypes.string,
+    department: PropTypes.string,
     degree: PropTypes.string,
     link: PropTypes.string,
     year: PropTypes.number,
+    end: PropTypes.number,
   })),
 };
 
