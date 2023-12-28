@@ -3,17 +3,17 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
-import Education from '../components/Resume/Education';
-import Industrial from '../components/Resume/Industrial';
-import Academic from '../components/Resume/Academic';
-import Skills from '../components/Resume/Skills';
-// import Courses from '../components/Resume/Courses';
-// import References from '../components/Resume/References';
+import Education from '../components/CV/Education';
+import Industrial from '../components/CV/Industrial';
+import Academic from '../components/CV/Academic';
+import Skills from '../components/CV/Skills';
+// import Courses from '../components/CV/Courses';
+// import References from '../components/CV/References';
 
-import degrees from '../data/resume/degrees';
-import work from '../data/resume/work';
-import academic from '../data/resume/academic';
-import { skills, categories } from '../data/resume/skills';
+import degrees from '../data/cv/degrees';
+import work from '../data/cv/work';
+import academic from '../data/cv/academic';
+import { skills, categories } from '../data/cv/skills';
 
 // NOTE: sections are displayed in order defined.
 const sections = {
@@ -25,10 +25,10 @@ const sections = {
   // References: () => <References />,
 };
 
-const Resume = () => (
+const CV = () => (
   <Main
-    title="Resume"
-    description="Zhaoxun's Resume."
+    title="Curriculum Vitae"
+    description="Zhaoxun's CV."
   >
     <article className="post" id="resume">
       <header>
@@ -38,7 +38,7 @@ const Resume = () => (
               PDF Version
             </a>
           </p>
-          <h2><Link to="resume">Resume</Link></h2>
+          <h2><Link to="cv">Curriculum Vitae</Link></h2>
           <div className="link-container">
             {Object.keys(sections).map((sec) => (
               <h4 key={sec}>
@@ -61,4 +61,4 @@ const Resume = () => (
   </Main>
 );
 
-export default Resume;
+export default CV;
