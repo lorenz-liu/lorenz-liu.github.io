@@ -5,29 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cca426a1-8a07-47b7-99de-d36e86bca85b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/CV/Services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CV/Services/Position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/cv/services.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/Academic.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CV/Academic.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/Courses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CV/Courses.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/Courses/Course.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CV/Courses/Course.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/Education.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CV/Education.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/Education/Degree.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CV/Education/Degree.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/Experience/Job.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CV/Experience/Job.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/Industrial.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CV/Industrial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/References.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CV/References.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CV/Skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/Skills/CategoryButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CV/Skills/CategoryButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/Skills/SkillBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CV/Skills/SkillBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Template/SideBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Template/SideBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/resume/academic.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/cv/academic.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/resume/courses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/cv/courses.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/resume/degrees.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/cv/degrees.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/resume/skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/cv/skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/resume/work.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/cv/work.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CV.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/css/pages/_resume.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/css/pages/_cv.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CV/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CV/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CV.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CV.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +81,7 @@
       <workItem from="1702243016093" duration="1467000" />
       <workItem from="1702244825109" duration="434000" />
       <workItem from="1702251092056" duration="7000" />
-      <workItem from="1703792184900" duration="5788000" />
+      <workItem from="1703792184900" duration="6611000" />
     </task>
     <servers />
   </component>

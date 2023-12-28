@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 import Education from '../components/CV/Education';
+import Services from '../components/CV/Services';
 import Industrial from '../components/CV/Industrial';
 import Academic from '../components/CV/Academic';
 import Skills from '../components/CV/Skills';
@@ -13,11 +14,13 @@ import Skills from '../components/CV/Skills';
 import degrees from '../data/cv/degrees';
 import work from '../data/cv/work';
 import academic from '../data/cv/academic';
+import services from '../data/cv/services';
 import { skills, categories } from '../data/cv/skills';
 
 // NOTE: sections are displayed in order defined.
 const sections = {
   Education: () => <Education data={degrees} />,
+  Services: () => <Services data={services} />,
   Industrial: () => <Industrial data={work} />,
   Academic: () => <Academic data={academic} />,
   Skills: () => <Skills skills={skills} categories={categories} />,
