@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import Markdown from 'markdown-to-jsx';
 
 import Main from '../layouts/Main';
@@ -30,7 +30,7 @@ const BlogDetail = () => {
         <header>
           <div className="title">
             <a href="/blogs">GO BACK</a>
-            <h2><Link to="/about">{blog}</Link></h2>
+            <h2>{blog}</h2>
             <p>(in about {count} words)</p>
           </div>
         </header>

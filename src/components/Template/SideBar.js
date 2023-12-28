@@ -8,7 +8,7 @@ const { PUBLIC_URL } = process.env; // set automatically from package.json:homep
 const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
-      <Link to="/about" className="logo">
+      <Link to="/" className="logo">
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
@@ -22,14 +22,15 @@ const SideBar = () => (
       <p>
         Hi, I&apos;m Zhaoxun &quot;Lorenz&quot; Liu. <br />
         I am currently pursuing <a href="https://mscac.utoronto.ca" target="_blank" rel="noopener noreferrer">MScAC at UofT</a>.
-        My interests fall in the broad area of AI-driven HCI,
-        focusing on human-AI interaction, extended reality and gaming technologies.
+        My interests fall in the broad area of AI-driven HCI, focusing on reinforcement learning
+        and interactive technologies in novel digital environments
+        such as extended reality and video games.
         For my leisure, I enjoy being an amateur cellist, guitarist, and a sports enthusiast. <br />
         🥂 Cheers!
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Curriculum Vitae</Link> : <Link to="/" className="button">About Me</Link>}
         </li>
       </ul>
     </section>
