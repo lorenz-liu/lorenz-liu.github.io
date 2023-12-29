@@ -1,11 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import dayjs from 'dayjs';
-import Markdown from 'markdown-to-jsx';
 
 const Position = ({
   data: {
-    name, position, startDate, endDate, summary, highlights,
+    name, url, school, position, startDate, endDate,
   },
 }) => (
   <article className="jobs-container">
@@ -29,34 +28,12 @@ const Position = ({
       </p>
       <p
         style={{
-          marginBottom: 25,
+          textTransform: 'none',
         }}
       >
-        {dayjs(startDate).format('MMMM YYYY')} - {endDate ? dayjs(endDate).format('MMMM YYYY') : 'PRESENT'}
+        <a href={url} target="_blank" rel="noopener noreferrer">{school}</a>, {dayjs(startDate).format('MMMM YYYY')} - {endDate ? dayjs(endDate).format('MMMM YYYY') : 'PRESENT'}
       </p>
     </header>
-    {summary ? (
-      <Markdown
-        options={{
-          overrides: {
-            p: {
-              props: {
-                className: 'summary',
-              },
-            },
-          },
-        }}
-      >
-        {summary}
-      </Markdown>
-    ) : null}
-    {highlights ? (
-      <ul className="points">
-        {highlights.map((highlight) => (
-          <li key={highlight}>{highlight}</li>
-        ))}
-      </ul>
-    ) : null}
   </article>
 );
 
@@ -64,6 +41,7 @@ Position.propTypes = {
   data: PropTypes.shape({
     name: PropTypes.string.isRequired,
     position: PropTypes.string.isRequired,
+    school: PropTypes.string.isRequired,
     url: PropTypes.string.isRequired,
     startDate: PropTypes.string.isRequired,
     endDate: PropTypes.string,

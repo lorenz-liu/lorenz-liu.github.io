@@ -22,6 +22,7 @@ Services.propTypes = {
   data: PropTypes.arrayOf(PropTypes.exact({
     name: PropTypes.string,
     position: PropTypes.string,
+    school: PropTypes.string,
     url: PropTypes.string,
     startDate: PropTypes.string,
     endDate: PropTypes.string,
