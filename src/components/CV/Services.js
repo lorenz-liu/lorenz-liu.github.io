@@ -4,8 +4,8 @@ import PropTypes from 'prop-types';
 import Position from './Services/Position';
 
 const Services = ({ data }) => (
-  <div className="experience">
-    <div className="link-to" id="experience" />
+  <div className="education">
+    <div className="link-to" id="services" />
     <div className="title">
       <h3>Services</h3>
     </div>

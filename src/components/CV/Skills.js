@@ -57,7 +57,7 @@ const Skills = ({ skills, categories }) => {
   ));
 
   return (
-    <div className="skills">
+    <div className="education">
       <div className="link-to" id="skills" />
       <div className="title">
         <h3>Skills</h3>

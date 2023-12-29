@@ -44,7 +44,7 @@ const CV = () => (
               PDF Version
             </a>
           </p>
-          <h2><Link to="cv">Curriculum Vitae</Link></h2>
+          <h2><Link to="/cv">Curriculum Vitae</Link></h2>
           <div className="link-container">
             {Object.keys(sections).map((sec) => (
               <h4 key={sec}>
