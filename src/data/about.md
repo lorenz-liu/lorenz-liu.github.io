@@ -12,7 +12,7 @@ My goal is to create intelligent interactive systems that prioritize the needs, 
 
 Prior to this, I finished my undergraduate study at the **[School of Computer Science and Engineering, Beihang University (Beijing, China)](https://scse.buaa.edu.cn/)**, from which I receive my **B.Eng. in Computer Science and Technology**.
 
-For leisure, I enjoy playing cello and guitar; I also love billiard, basketball, cycling, swimming, soccer, and badminton. 
+For leisure, I enjoy playing cello and guitar; I also love billiards, basketball, cycling, swimming, soccer, and badminton. 
 
 ------
 
