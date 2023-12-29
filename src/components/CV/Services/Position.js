@@ -10,9 +10,30 @@ const Position = ({
 }) => (
   <article className="jobs-container">
     <header>
-      <h4 className="degree">{name}</h4>
-      <p className="department">{position}</p>
-      <p className="daterange"> {dayjs(startDate).format('MMMM YYYY')} - {endDate ? dayjs(endDate).format('MMMM YYYY') : 'PRESENT'}</p>
+      <p
+        style={{
+          textTransform: 'none',
+          letterSpacing: '0.16em',
+          fontSize: '.8em',
+          marginBottom: '.1em',
+        }}
+      >
+        {name}
+      </p>
+      <p
+        style={{
+          marginBottom: 0,
+        }}
+      >
+        {position}
+      </p>
+      <p
+        style={{
+          marginBottom: 25,
+        }}
+      >
+        {dayjs(startDate).format('MMMM YYYY')} - {endDate ? dayjs(endDate).format('MMMM YYYY') : 'PRESENT'}
+      </p>
     </header>
     {summary ? (
       <Markdown

@@ -11,7 +11,7 @@ const SideBar = () => (
       <Link to="/" className="logo">
         <img
           style={{
-            borderRadius: '16%',
+            borderRadius: '20%',
           }}
           src={`${PUBLIC_URL}/images/me.jpg`}
           alt=""
