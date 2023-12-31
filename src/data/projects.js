@@ -12,7 +12,7 @@ const data = [
   {
     title: 'Who\'s Hated: Detecting and Analyzing the Entities Targeted by Hateful Memes',
     subtitle: 'A Framework to Detect and Reason the Targeted Entities in Hateful Memes',
-    link: 'https://gitlorenzl.github.io/files/whos-hated.pdf',
+    link: '/files/whos-hated.pdf',
     image: '/images/projects/hated.png',
     date: '2023-12-01',
     desc:
