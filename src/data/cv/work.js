@@ -20,6 +20,7 @@ const work = [
     endDate: '2023-03-01',
     summary: "Ubisoft is a leading video game company that develops and publishes popular game franchises such as Assassin's Creed, Far Cry, and Tom Clancy's Rainbow Six. Chengdu Studio's representative work is the Rabbids series. ",
     highlights: [
+      'Researched reinforcement learning (DQN, DDPG) on non-player character actions, behaviours, and interactions.',
       'Spearheaded the enhancement of an AAA-level video game’s downloadable contents (DLCs), excelling in C# and Unity3D for development, debugging, and performance optimization.',
       'Achieved notable improvements in DLC performance and functionality, streamlined project workflows with Perforce and Confluence, and successfully delivered high-quality content.',
     ],
