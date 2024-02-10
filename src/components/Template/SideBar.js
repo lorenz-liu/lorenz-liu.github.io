@@ -28,9 +28,7 @@ const SideBar = () => (
       <p>
         Hi, I&apos;m Zhaoxun &quot;Lorenz&quot; Liu. <br />
         I am currently pursuing <a href="https://mscac.utoronto.ca" target="_blank" rel="noopener noreferrer">MScAC at UofT</a>.
-        My interests fall in the broad area of AI-driven HCI, focusing on reinforcement learning
-        and interactive technologies in novel digital environments
-        such as extended reality and video games.
+        My academic interest falls in the area of AI-Driven Human-Computer Interaction.
         For my leisure, I enjoy being an amateur cellist, guitarist, and a sports enthusiast. <br />
         🥂 Cheers!
       </p>

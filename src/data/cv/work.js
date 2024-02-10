@@ -13,6 +13,16 @@
  */
 const work = [
   {
+    name: 'University Health Network',
+    position: 'Machine Learning Engineer',
+    url: 'https://temertysimcentre.com/surgical-artificial-intelligence-research-academy-sara/',
+    startDate: '2024-05-01',
+    summary: 'The Surgical AI Research Academy (SARA) is dedicated towards research and innovation in areas related to surgical training, intra-operative performance augmentation, robotic surgery and telecoaching. We use various methodologies, including artificial intelligence, AR/VR modelling, and simulation-based training to improve patient outcomes through surgical excellence.',
+    highlights: [
+      'Leveraging reinforcement learning and large language models to optimally manage mass-casualty trauma.',
+    ],
+  },
+  {
     name: 'Ubisoft Entertainment SA',
     position: 'Intern Gameplay Programmer',
     url: 'https://www.ubisoft.com/',

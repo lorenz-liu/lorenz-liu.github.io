@@ -1,7 +1,7 @@
 import { faWeixin } from '@fortawesome/free-brands-svg-icons/faWeixin';
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 // import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
-// import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
+import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 // import { faAngellist } from '@fortawesome/free-brands-svg-icons/faAngellist';
 // import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
@@ -20,11 +20,6 @@ const data = [
     label: 'Github',
     icon: faGithub,
   },
-  // {
-  //   link: 'https://www.instagram.com/dangelosaurus/',
-  //   label: 'Instagram',
-  //   icon: faInstagram,
-  // },
   {
     link: 'https://www.linkedin.com/in/Zhaoxun-Lorenz-Liu',
     label: 'LinkedIn',
@@ -44,6 +39,11 @@ const data = [
     link: 'mailto:zhaoxun.liu@proton.me',
     label: 'Email',
     icon: faEnvelope,
+  },
+  {
+    link: 'https://www.instagram.com/llorenzll/',
+    label: 'Instagram',
+    icon: faInstagram,
   },
 ];
 

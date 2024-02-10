@@ -3,16 +3,20 @@ Greetings! This is Zhaoxun "Lorenz" Liu, going by he/him/his.
 I am currently pursuing my **[Master of Science in Applied Computing](https://mscac.utoronto.ca/)** at the **[Department of Computer Science, University of Toronto](https://web.cs.toronto.edu/)**. 
 My work sits at the broad area of **human-computer interaction (HCI)**, with specific interests in: 
 
- - Reinforcement learning in human-AI interaction 
- - Interactive technologies in novel digital environments (extended reality, video games, etc.)
+ - Human-AI Interaction (RLHF, Generative AI, Multimodal, Alignment, etc.)
+ - Novel Interactive Technologies (Text Entry, Manipulation, etc. )
 
 My most interested academic communities: **[ACM CHI](https://dl.acm.org/conference/chi)**, **[NeurIPS](https://nips.cc/)**.
 
-My goal is to create intelligent interactive systems that prioritize the needs, capabilities, and perspectives of humans to enhance their overall experience and well-being.
+My goal is to create intelligent interactive systems that prioritize the needs, capabilities, and safety of humans.
 
 Prior to this, I finished my undergraduate study at the **[School of Computer Science and Engineering, Beihang University (Beijing, China)](https://scse.buaa.edu.cn/)**, from which I receive my **B.Eng. in Computer Science and Technology**.
 
-For leisure, I enjoy playing cello and guitar; I also love billiards, basketball, cycling, swimming, soccer, and badminton. 
+For leisure, I am a semi-professional cellist; I also play guitar, billiards, and basketball.
+
+------
+
+✨ At this moment, I am working with [**University Health Network (UHN)**](https://temertysimcentre.com/surgical-artificial-intelligence-research-academy-sara/) as a Machine Learning Engineer, focusing on leveraging reinforcement learning and large language models to optimally manage mass-casualty trauma. 
 
 ------
 
