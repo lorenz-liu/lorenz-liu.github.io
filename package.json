@@ -1,11 +1,11 @@
 {
-  "name": "lorenzl-site",
+  "name": "lorenz-liu-site",
   "version": "1.0.0",
-  "homepage": "https://gitlorenzl.github.io",
+  "homepage": "https://lorenz-liu.github.io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GitLorenzL/GitLorenzL.github.io"
+    "url": "https://github.com/lorenz-liu/lorenz-liu.github.io"
   },
   "engines": {
     "node": ">=14.x"

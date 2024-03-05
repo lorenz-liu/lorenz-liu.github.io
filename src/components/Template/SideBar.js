@@ -19,7 +19,7 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Zhaoxun Liu</h2>
-        <p><a href="mailto:zhaoxun.liu@proton.me" target="_blank" rel="noopener noreferrer">zhaoxun.liu@proton.me</a></p>
+        <p><a href="mailto:lorenz@null.net" target="_blank" rel="noopener noreferrer">lorenz@null.net</a></p>
       </header>
     </section>
 

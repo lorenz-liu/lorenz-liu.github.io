@@ -16,7 +16,7 @@ const data = [
     icon: faWeixin,
   },
   {
-    link: 'https://github.com/GitLorenzL',
+    link: 'https://github.com/lorenz-liu',
     label: 'Github',
     icon: faGithub,
   },
@@ -25,18 +25,13 @@ const data = [
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
-  // {
-  //   link: 'https://angel.co/michael-d-angelo',
-  //   label: 'Angel List',
-  //   icon: faAngellist,
-  // },
-  // {
-  //   link: 'https://twitter.com/dangelosaurus',
-  //   label: 'Twitter',
-  //   icon: faTwitter,
-  // },
   {
-    link: 'mailto:zhaoxun.liu@proton.me',
+    link: 'https://twitter.com/llorenzll',
+    label: 'Twitter',
+    icon: faTwitter,
+  },
+  {
+    link: 'mailto:lorenz@null.net',
     label: 'Email',
     icon: faEnvelope,
   },

@@ -19,7 +19,7 @@ const EmailPart = () => (
   <div className="email-at">
     <p> <b>Feel free to get in touch!</b></p>
     <p style={{ marginTop: '4%' }}>You can email me at: </p>
-    <EmailLink mail="zhaoxun.liu@proton.me" />
+    <EmailLink mail="lorenz@null.net" />
     <p style={{ marginTop: '4%' }}>If it is for academic or professional purposes, preferably: </p>
     <EmailLink mail="lorenz@cs.toronto.edu" />
     <EmailLink mail="zhaoxun.liu@mail.utoronto.ca" />

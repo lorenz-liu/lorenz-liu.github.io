@@ -1,8 +1,8 @@
-# GitLorenzL | Zhaoxun Liu's Personal Page
+# Lorenz Liu Site
 
 ## Deployment
 
 * `npm run deploy`
 
-  > Where `deploy` is defined in `package.json  ` as `"gh-pages -d build"`. 
+  > Where `deploy` is defined in `package.json` as `"gh-pages -d build"`. 
 
