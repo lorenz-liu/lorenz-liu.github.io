@@ -6,7 +6,7 @@ My work sits in the broad area of **Human-Computer Interaction (HCI)**, with spe
  - **Human-AI Interaction (HAI)** (RLHF, Generative AI, Multimodal, Alignment, etc.)
  - **Novel Interactive Technologies** (Text Entry, Manipulation, etc. )
 
-I am also proficient in full-stack development to turn my research ideas into interactive applications. 
+I am also proficient in **full-stack development** to turn my research ideas into interactive applications. 
 
 Academic communities I find most intriguing: **[ACM CHI](https://dl.acm.org/conference/chi)**, **[NeurIPS](https://nips.cc/)**.
 
