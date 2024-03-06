@@ -44,7 +44,7 @@ const data = [
   {
     title: 'Temporal Transformer Networks With Self-Supervision for Action Recognition.',
     subtitle: 'A Project with Beihang University\'s National Lab of Software Development and Environment',
-    link: 'https://arxiv.org/pdf/2112.07338.pdf',
+    link: 'https://ieeexplore.ieee.org/document/10073948',
     image: '/images/projects/ttn.png',
     date: '2021-12-01',
     desc:

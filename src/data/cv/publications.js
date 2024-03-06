@@ -14,7 +14,7 @@ const publications = [
   {
     title: 'Temporal Transformer Networks with Self-Supervision for Action Recognition',
     authors: 'Yongkang Zhang, Jun Li, Na Jiang, Guoming Wu, Han Zhang, Zhiping Shi, Zhaoxun Liu*, Zizhang Wu',
-    url: '/files/ttsn.pdf',
+    url: 'https://ieeexplore.ieee.org/document/10073948',
     pub: 'IEEE Internet of Things Journal (IoT), 2023',
   },
 ];
