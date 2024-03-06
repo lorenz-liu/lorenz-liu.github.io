@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklorenzl_site=self.webpackChunklorenzl_site||[]).push([[936],{1936:function(e,s,t){e.exports=t.p+"static/media/merge-pdfs.b007c4a4362f0ad80480.md"}}]);
