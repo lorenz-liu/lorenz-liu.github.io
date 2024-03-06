@@ -1,18 +1,20 @@
 Greetings! This is Zhaoxun "Lorenz" Liu, going by he/him/his. 
 
 I am currently pursuing my **[Master of Science in Applied Computing](https://mscac.utoronto.ca/)** at the **[Department of Computer Science, University of Toronto](https://web.cs.toronto.edu/)**. 
-My work sits at the broad area of **human-computer interaction (HCI)**, with specific interests in: 
+My work sits in the broad area of **Human-Computer Interaction (HCI)**, with specific interests in: 
 
- - Human-AI Interaction (RLHF, Generative AI, Multimodal, Alignment, etc.)
- - Novel Interactive Technologies (Text Entry, Manipulation, etc. )
+ - **Human-AI Interaction (HAI)** (RLHF, Generative AI, Multimodal, Alignment, etc.)
+ - **Novel Interactive Technologies** (Text Entry, Manipulation, etc. )
 
-My most interested academic communities: **[ACM CHI](https://dl.acm.org/conference/chi)**, **[NeurIPS](https://nips.cc/)**.
+I am also proficient in full-stack development to turn my research ideas into interactive applications. 
+
+Academic communities I find most intriguing: **[ACM CHI](https://dl.acm.org/conference/chi)**, **[NeurIPS](https://nips.cc/)**.
 
 My goal is to create intelligent interactive systems that prioritize the needs, capabilities, and safety of humans.
 
-Prior to this, I finished my undergraduate study at the **[School of Computer Science and Engineering, Beihang University (Beijing, China)](https://scse.buaa.edu.cn/)**, from which I receive my **B.Eng. in Computer Science and Technology**.
+Prior to this, I finished my undergraduate study at the **[School of Computer Science and Engineering, Beihang University (Beijing, China)](https://scse.buaa.edu.cn/)**, from which I received my **B.Eng. in Computer Science and Technology**.
 
-For leisure, I am a semi-professional cellist; I also play guitar, billiards, and basketball.
+FYI, I am a semi-professional cellist; I also play guitar, billiards, and basketball.
 
 ------
 

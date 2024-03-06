@@ -19,7 +19,7 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Zhaoxun Liu</h2>
-        <p><a href="mailto:lorenz@null.net" target="_blank" rel="noopener noreferrer">lorenz@null.net</a></p>
+        <p><a href="mailto:lorenz@null.net" target="_top">lorenz [at] null [dot] net</a></p>
       </header>
     </section>
 
@@ -27,9 +27,9 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Zhaoxun &quot;Lorenz&quot; Liu. <br />
-        I am currently pursuing <a href="https://mscac.utoronto.ca" target="_blank" rel="noopener noreferrer">MScAC at UofT</a>.
-        My academic interest falls in the area of AI-Driven Human-Computer Interaction.
-        For my leisure, I enjoy being an amateur cellist, guitarist, and a sports enthusiast. <br />
+        I am currently pursuing <a href="https://mscac.utoronto.ca" target="_blank" rel="noopener noreferrer">M.Sc. in Applied Computing at UofT CS</a>.
+        My interest falls in Human-AI Interaction. <br />
+        Fun fact: besides my profession in computer science, I am also an amateur cellist. <br />
         🥂 Cheers!
       </p>
       <ul className="actions">
