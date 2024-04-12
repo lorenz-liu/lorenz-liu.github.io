@@ -3,8 +3,8 @@ Greetings! This is Zhaoxun "Lorenz" Liu, going by he/him/his.
 I am currently pursuing my **[Master of Science in Applied Computing](https://mscac.utoronto.ca/)** at the **[Department of Computer Science, University of Toronto](https://web.cs.toronto.edu/)**. 
 My work sits in the broad area of **Human-Computer Interaction (HCI)**, with specific interests in: 
 
- - **Human-AI Interaction (HAI)** (RLHF, Generative AI, Multimodal, Alignment, etc.)
- - **Novel Interactive Technologies** (Text Entry, Manipulation, etc. )
+- **Human-AI Interaction**: I apply my expertise in HCI & AI to build interactive systems and study their impact on users.
+- **Human-Centered AI**: I search for methods to control AI behaviors and align them with human values and goals.
 
 I am also proficient in **full-stack** and **game development** to turn my research ideas into interactive applications. 
 
