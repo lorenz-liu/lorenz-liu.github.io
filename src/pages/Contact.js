@@ -8,9 +8,8 @@ import ContactIcons from '../components/Contact/ContactIcons';
 const WeChatPart = () => (
   <div className="email-at">
     <p>
-      By the way, <b>WeChat</b> is my most
-      frequently used instant messaging app. <br />
-      Send me an email to me if you prefer to talk in WeChat!
+      By the way, I use <b>WeChat</b>. <br />
+      Send me an email if you prefer to use instant messaging :)
     </p>
   </div>
 );
