@@ -10,6 +10,14 @@ const data = [
   //     '',
   // },
   {
+    title: 'DocHub: Facilitating Comprehension of Documents via Structured Sensemaking with Large Language Models',
+    link: '/files/dochub.pdf',
+    image: '/images/projects/dochub.png',
+    date: '2024-04-01',
+    desc:
+      'We propose DocHub, a LLM-based interactive system that (1) identifies and visualizes crucial data and their interconnections within documents as node-link diagrams, (2) offers an interactive interface allowing users to modify these visualizations for tailored insights and to pose detailed, context-specific queries for deeper understanding, and (3) features a non-linear abstraction framework to adeptly handle and streamline the complexity of information presented. ',
+  },
+  {
     title: 'Who\'s Hated: Detecting and Analyzing the Entities Targeted by Hateful Memes',
     subtitle: 'A Framework to Detect and Reason the Targeted Entities in Hateful Memes',
     link: '/files/whos-hated.pdf',

@@ -21,6 +21,7 @@ const EmailPart = () => (
     <EmailLink mail="lorenz [at] null [dot] net" />
     <p style={{ marginTop: '4%' }}>If it is for academic or professional purposes, preferably: </p>
     <EmailLink mail="lorenz [at] cs [dot] toronto [dot] edu" />
+    <EmailLink mail="zhaoxun [dot] liu [at] uhn [dot] ca" />
     <EmailLink mail="zhaoxun [dot] liu [at] mail [dot] utoronto [dot] ca" />
   </div>
 );

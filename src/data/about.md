@@ -18,7 +18,7 @@ FYI, I am a semi-professional cellist; I also play guitar, billiards, and basket
 
 ------
 
-✨ At this moment, I am working with [**University Health Network (UHN)**](https://temertysimcentre.com/surgical-artificial-intelligence-research-academy-sara/) as a Machine Learning Engineer, focusing on leveraging reinforcement learning and large language models to optimally manage mass-casualty trauma. 
+✨ At this moment, I am a **Machine Learning Researcher** at [**University Health Network (UHN)**](https://temertysimcentre.com/surgical-artificial-intelligence-research-academy-sara/) , focusing on leveraging reinforcement learning and large language models to optimally manage mass-casualty trauma. 
 
 ------
 

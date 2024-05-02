@@ -14,7 +14,7 @@
 const work = [
   {
     name: 'University Health Network',
-    position: 'Machine Learning Engineer',
+    position: 'Machine Learning Researcher',
     url: 'https://temertysimcentre.com/surgical-artificial-intelligence-research-academy-sara/',
     startDate: '2024-05-01',
     summary: 'The Surgical AI Research Academy (SARA) is dedicated towards research and innovation in areas related to surgical training, intra-operative performance augmentation, robotic surgery and telecoaching. We use various methodologies, including artificial intelligence, AR/VR modelling, and simulation-based training to improve patient outcomes through surgical excellence.',
@@ -23,7 +23,7 @@ const work = [
     ],
   },
   {
-    name: 'Ubisoft Entertainment SA',
+    name: 'Ubisoft',
     position: 'Intern Gameplay Programmer',
     url: 'https://www.ubisoft.com/',
     startDate: '2022-09-01',
