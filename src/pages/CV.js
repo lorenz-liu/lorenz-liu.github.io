@@ -23,9 +23,9 @@ import { skills, categories } from '../data/cv/skills';
 const sections = {
   Education: () => <Education data={degrees} />,
   Publications: () => <Publications data={publications} />,
-  Services: () => <Services data={services} />,
   Industrial: () => <Industrial data={work} />,
   Academic: () => <Academic data={academic} />,
+  Services: () => <Services data={services} />,
   Skills: () => <Skills skills={skills} categories={categories} />,
   // Courses: () => <Courses data={courses} />,
   // References: () => <References />,
