@@ -26,6 +26,11 @@ const skills = [
   },
   {
     title: 'JavaScript',
+    competency: 4,
+    category: ['Programming'],
+  },
+  {
+    title: 'TypeScript',
     competency: 3,
     category: ['Programming'],
   },
