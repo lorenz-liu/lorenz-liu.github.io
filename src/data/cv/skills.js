@@ -5,11 +5,6 @@ const skills = [
     category: ['Programming'],
   },
   {
-    title: 'C',
-    competency: 2,
-    category: ['Programming'],
-  },
-  {
     title: 'C#',
     competency: 5,
     category: ['Programming'],
@@ -40,22 +35,22 @@ const skills = [
     category: ['Programming'],
   },
   {
-    title: 'Bash',
-    competency: 2,
-    category: ['Programming', 'Tool'],
-  },
-  {
     title: 'Git',
     competency: 4,
     category: ['Tool'],
   },
   {
-    title: 'Unity',
+    title: 'Unity3D',
     competency: 5,
     category: ['Research (HCI/AI/Gaming)', 'Tool'],
   },
   {
     title: 'PyTorch',
+    competency: 4,
+    category: ['Research (HCI/AI/Gaming)'],
+  },
+  {
+    title: 'Scikit-Learn',
     competency: 4,
     category: ['Research (HCI/AI/Gaming)'],
   },
@@ -70,44 +65,44 @@ const skills = [
     category: ['Software Development'],
   },
   {
-    title: 'Yarn',
-    competency: 3,
-    category: ['Software Development', 'Tool'],
-  },
-  {
-    title: 'MongoDB',
-    competency: 3,
-    category: ['Software Development', 'Tool'],
-  },
-  {
     title: 'Google Firebase',
     competency: 4,
     category: ['Software Development', 'Tool'],
   },
   {
-    title: 'Amazon Web Services',
-    competency: 3,
-    category: ['Software Development', 'Tool'],
-  },
-  {
     title: 'NumPy',
     competency: 5,
-    category: ['Research (HCI/AI/Gaming)', 'Tool'],
+    category: ['Research (HCI/AI/Gaming)'],
+  },
+  {
+    title: 'SciPy',
+    competency: 3,
+    category: ['Research (HCI/AI/Gaming)'],
+  },
+  {
+    title: 'Docker',
+    competency: 3,
+    category: ['Tool'],
+  },
+  {
+    title: 'Kubernetes',
+    competency: 3,
+    category: ['Tool'],
+  },
+  {
+    title: 'Flask',
+    competency: 3,
+    category: ['Software Development'],
+  },
+  {
+    title: 'PostgreSQL',
+    competency: 2,
+    category: ['Software Development'],
   },
   {
     title: 'Matplotlib',
     competency: 4,
     category: ['Research (HCI/AI/Gaming)', 'Tool'],
-  },
-  {
-    title: 'JIRA',
-    competency: 1,
-    category: ['Tool'],
-  },
-  {
-    title: 'Confluence',
-    competency: 1,
-    category: ['Tool'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
