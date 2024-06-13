@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cca426a1-8a07-47b7-99de-d36e86bca85b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/cv_icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/cv/academic.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/cv/academic.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/cv/skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/cv/skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/Zhaoxun_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/Zhaoxun_CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Template/SideBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Template/SideBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/cv/publications.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/cv/publications.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,24 +42,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/main/Documents/GitHub/lorenz-liu.github.io&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/main/Documents/GitHub/lorenz-liu.github.io/public/images",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/main/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/src/components/Resume" />
     </key>
   </component>
@@ -93,7 +97,9 @@
       <workItem from="1714673406930" duration="1309000" />
       <workItem from="1714852966711" duration="32000" />
       <workItem from="1715176861388" duration="676000" />
-      <workItem from="1717708378185" duration="1400000" />
+      <workItem from="1717708378185" duration="1512000" />
+      <workItem from="1718137770125" duration="6000" />
+      <workItem from="1718297741299" duration="1022000" />
     </task>
     <servers />
   </component>
