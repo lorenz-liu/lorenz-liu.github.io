@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cca426a1-8a07-47b7-99de-d36e86bca85b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/Beihang_Qualification.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/Zhaoxun_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/zhaoxun-resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/Zhaoxun_Liu_PTE_Report.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Template/SideBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Template/SideBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/cv/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/cv/services.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/cv/skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/cv/skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/cv/work.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/cv/work.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/CV.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +98,7 @@
       <workItem from="1718137770125" duration="6000" />
       <workItem from="1718297741299" duration="1356000" />
       <workItem from="1718985808470" duration="14000" />
-      <workItem from="1727204168658" duration="1050000" />
+      <workItem from="1727204168658" duration="1410000" />
     </task>
     <servers />
   </component>
