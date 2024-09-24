@@ -30,6 +30,11 @@ const skills = [
     category: ['Programming'],
   },
   {
+    title: 'Scala',
+    competency: 3,
+    category: ['Programming'],
+  },
+  {
     title: 'SQL',
     competency: 2,
     category: ['Programming'],
@@ -65,7 +70,27 @@ const skills = [
     category: ['Software Development'],
   },
   {
+    title: 'Linux/Unix',
+    competency: 4,
+    category: ['Software Development', 'Tool', 'Research (HCI/AI/Gaming)'],
+  },
+  {
     title: 'Google Firebase',
+    competency: 4,
+    category: ['Software Development', 'Tool'],
+  },
+  {
+    title: 'Apache Spark',
+    competency: 3,
+    category: ['Software Development'],
+  },
+  {
+    title: 'Apache Kafka',
+    competency: 3,
+    category: ['Software Development'],
+  },
+  {
+    title: 'AWS Services',
     competency: 4,
     category: ['Software Development', 'Tool'],
   },
@@ -82,12 +107,12 @@ const skills = [
   {
     title: 'Docker',
     competency: 3,
-    category: ['Tool'],
+    category: ['Software Development'],
   },
   {
     title: 'Kubernetes',
     competency: 3,
-    category: ['Tool'],
+    category: ['Software Development'],
   },
   {
     title: 'Flask',

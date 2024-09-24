@@ -17,16 +17,6 @@ const SideBar = () => (
           alt=""
         />
       </Link>
-      {/* <Link to="/files/Zhaoxun_CV.pdf" className="logo"> */}
-      {/*   <img */}
-      {/*     style={{ */}
-      {/*       borderRadius: '20%', */}
-      {/*       width: 60, */}
-      {/*     }} */}
-      {/*     src={`${PUBLIC_URL}/images/cv_icon.png`} */}
-      {/*     alt="" */}
-      {/*   /> */}
-      {/* </Link> */}
       <header>
         <h2>Zhaoxun Liu</h2>
         <p><a href="mailto:lorenz@null.net" target="_top">lorenz [at] null [dot] net</a></p>

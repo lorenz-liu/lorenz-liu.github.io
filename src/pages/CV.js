@@ -40,7 +40,7 @@ const CV = () => (
       <header>
         <div className="title">
           <p>
-            <a href={`${process.env.PUBLIC_URL}files/Zhaoxun_CV.pdf`} target="_blank" rel="noreferrer">
+            <a href={`${process.env.PUBLIC_URL}files/zhaoxun-resume.pdf`} target="_blank" rel="noreferrer">
               PDF Version
             </a>
           </p>

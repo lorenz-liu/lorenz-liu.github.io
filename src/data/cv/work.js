@@ -19,7 +19,7 @@ const work = [
     startDate: '2024-05-01',
     summary: 'The Surgical AI Research Academy (SARA) is dedicated towards research and innovation in areas related to surgical training, intra-operative performance augmentation, robotic surgery and telecoaching. We use various methodologies, including artificial intelligence, AR/VR modelling, and simulation-based training to improve patient outcomes through surgical excellence.',
     highlights: [
-      'Leveraging reinforcement learning and large language models to optimally manage mass-casualty trauma.',
+      'Introduced MasTER, a data-intensive triage dashboard with a user-friendly human interface to enable fast patient dispatch in mass-casualty incidents by leveraging PPO-based deep reinforcement learning and large language models.',
     ],
   },
   {
@@ -31,8 +31,8 @@ const work = [
     summary: "Ubisoft is a leading video game company that develops and publishes popular game franchises such as Assassin's Creed, Far Cry, and Tom Clancy's Rainbow Six. Chengdu Studio's representative work is the Rabbids series. ",
     highlights: [
       'Researched reinforcement learning (DQN, DDPG) on non-player character actions, behaviours, and interactions.',
-      'Spearheaded the enhancement of an AAA-level video game’s downloadable contents (DLCs), excelling in C# and Unity3D for development, debugging, and performance optimization.',
-      'Achieved notable improvements in DLC performance and functionality, streamlined project workflows with Perforce and Confluence, and successfully delivered high-quality content.',
+      'Assassin’s Creed Mirage downloadable contents (DLCs), excelling in C# and Unity3D and performance optimization.',
+      'Achieved notable improvements in DLC performance and functionality, streamlined project workflows with Perforce and Confluence, and successfully delivered high-quality content. ',
     ],
   },
 ];
