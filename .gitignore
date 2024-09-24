@@ -1,3 +1,5 @@
+*.idea/
+
 *.cache/
 
 # prefer npm over yarn
