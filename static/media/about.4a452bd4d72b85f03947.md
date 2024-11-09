@@ -18,7 +18,7 @@ FYI, I am a semi-professional cellist; I also play guitar, billiards, and basket
 
 ------
 
-✨ At this moment, I am a **Machine Learning Researcher** at [**University Health Network (UHN)**](https://temertysimcentre.com/surgical-artificial-intelligence-research-academy-sara/) , focusing on leveraging reinforcement learning and large language models to optimally manage mass-casualty trauma. 
+✨ In February 2025, I will join [**University Health Network (UHN)**](https://www.uhn.ca/) as a Team Lead in Machine Learning at [**the SARA Lab**](https://temertysimcentre.com/surgical-artificial-intelligence-research-academy-sara/), where I will oversee research in computer vision, graphics, and reinforcement learning. I will also supervise healthcare-tailored game development and web application projects. Our mission is to pioneer AI-driven solutions for surgical and clinical applications. 
 
 ------
 

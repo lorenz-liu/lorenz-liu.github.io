@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklorenz_liu_site=self.webpackChunklorenz_liu_site||[]).push([[625],{625:(e,s,t)=>{e.exports=t.p+"static/media/about.4a452bd4d72b85f03947.md"}}]);
