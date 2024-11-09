@@ -2,7 +2,7 @@ const degrees = [
   {
     school: 'University of Toronto',
     department: 'Department of Computer Science',
-    degree: 'Master of Science in Applied Computing (On-going)',
+    degree: 'Master of Science in Applied Computing',
     link: 'https://mscac.utoronto.ca/',
     year: 2023,
     end: 2025,

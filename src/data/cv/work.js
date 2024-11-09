@@ -14,9 +14,21 @@
 const work = [
   {
     name: 'University Health Network',
+    position: 'Team Lead, Machine Learning',
+    url: 'https://temertysimcentre.com/surgical-artificial-intelligence-research-academy-sara/',
+    startDate: '2025-02-01',
+    summary: 'University Health Network (UHN) is an alliance of leading healthcare research facilities at the forefront of medical innovation, advancing cutting-edge AI research to transform healthcare and improve patient outcomes. In 2024, Toronto General Hospital, part of UHN, was ranked as the No. 3 hospital worldwide. ',
+    highlights: [
+      'I lead the Machine Learning Research Team at the SARA Lab, UHN, overseeing research in computer vision, graphics, and reinforcement learning. I also supervise healthcare-tailored game development and web application projects.',
+      'Our mission is to pioneer AI-driven solutions for surgical and clinical applications. ',
+    ],
+  },
+  {
+    name: 'University Health Network',
     position: 'Machine Learning Researcher',
     url: 'https://temertysimcentre.com/surgical-artificial-intelligence-research-academy-sara/',
     startDate: '2024-05-01',
+    endDate: '2024-12-31',
     summary: 'The Surgical AI Research Academy (SARA) is dedicated towards research and innovation in areas related to surgical training, intra-operative performance augmentation, robotic surgery and telecoaching. We use various methodologies, including artificial intelligence, AR/VR modelling, and simulation-based training to improve patient outcomes through surgical excellence.',
     highlights: [
       'Introduced MasTER, a data-intensive triage dashboard with a user-friendly human interface to enable fast patient dispatch in mass-casualty incidents by leveraging PPO-based deep reinforcement learning and large language models.',
