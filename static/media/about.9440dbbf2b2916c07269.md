@@ -20,6 +20,10 @@ FYI, I am a semi-professional cellist; I also play guitar, billiards, and basket
 
 ✨ In February 2025, I will join [**University Health Network (UHN)**](https://www.uhn.ca/) as a Team Lead in Machine Learning at [**the SARA Lab**](https://temertysimcentre.com/surgical-artificial-intelligence-research-academy-sara/), where I will oversee research in computer vision, graphics, and reinforcement learning. I will also supervise healthcare-tailored game development and web application projects. Our mission is to pioneer AI-driven solutions for surgical and clinical applications. 
 
+<div style="background-color: #fff4ef; padding: 10px; border-radius: 8px; margin-top: 10px">
+    📣 **We are hiring!** If you are interested in developing full stack applications for medical AI, please drop me an email at <ins>zhaoxun [dot] liu [at] uhn [dot] ca</ins>. You are a good match if you have solid skills in React.js and whatever database you like. SARA is a fully funded research lab rooted in UHN, with competitive compensation and a good work-life balance guaranteed.
+</div>
+
 ------
 
 # A Brief Explanation for My Interests 
