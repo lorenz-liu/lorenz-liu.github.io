@@ -1,4 +1,4 @@
-import React, { Suspense, lazy } from 'react';
+import React, { Suspense, lazy, useEffect } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Main from './layouts/Main'; // fallback for lazy pages
 import './static/css/main.scss'; // All of our styles
@@ -16,6 +16,19 @@ const Blogs = lazy(() => import('./pages/Blogs'));
 const CV = lazy(() => import('./pages/CV'));
 const Stats = lazy(() => import('./pages/Stats'));
 const BlogDetail = lazy(() => import('./pages/BlogDetail'));
+
+// Matomo Analytics
+useEffect(() => {
+  // eslint-disable-next-line no-multi-assign
+  const _mtm = window._mtm = window._mtm || [];
+  _mtm.push({ 'mtm.startTime': (new Date().getTime()), event: 'mtm.Start' });
+  const d = document;
+  const g = d.createElement('script');
+  const s = d.getElementsByTagName('script')[0];
+  g.async = true;
+  g.src = 'https://cdn.matomo.cloud/lorenz.matomo.cloud/container_xGRkVfpo.js';
+  s.parentNode.insertBefore(g, s);
+}, []);
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>

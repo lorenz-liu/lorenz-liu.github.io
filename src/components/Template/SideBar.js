@@ -43,14 +43,6 @@ const SideBar = () => (
       <ContactIcons />
       <p className="copyright">&copy; Zhaoxun &quot;Lorenz&quot; Liu.</p>
     </section>
-
-    <div>
-      <script
-        type="text/javascript"
-        id="clustrmaps"
-        src="//cdn.clustrmaps.com/map_v2.js?cl=230505&w=450&t=tt&d=HfwB-ysPDBgnoPg89MNPfnXkiJm3BPHh37SYx1zeuw8&co=f4f4f4&ct=d1d1d1&cmo=b6c7f2&cmn=ffa500"
-      />
-    </div>
   </section>
 );
 
