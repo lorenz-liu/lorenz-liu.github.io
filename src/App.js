@@ -17,35 +17,37 @@ const CV = lazy(() => import('./pages/CV'));
 const Stats = lazy(() => import('./pages/Stats'));
 const BlogDetail = lazy(() => import('./pages/BlogDetail'));
 
-// Matomo Analytics
-useEffect(() => {
-  // eslint-disable-next-line no-multi-assign
-  const _mtm = window._mtm = window._mtm || [];
-  _mtm.push({ 'mtm.startTime': (new Date().getTime()), event: 'mtm.Start' });
-  const d = document;
-  const g = d.createElement('script');
-  const s = d.getElementsByTagName('script')[0];
-  g.async = true;
-  g.src = 'https://cdn.matomo.cloud/lorenz.matomo.cloud/container_xGRkVfpo.js';
-  s.parentNode.insertBefore(g, s);
-}, []);
+const App = () => {
+  // Matomo Analytics
+  useEffect(() => {
+    // eslint-disable-next-line no-multi-assign
+    const _mtm = window._mtm = window._mtm || [];
+    _mtm.push({ 'mtm.startTime': (new Date().getTime()), event: 'mtm.Start' });
+    const d = document;
+    const g = d.createElement('script');
+    const s = d.getElementsByTagName('script')[0];
+    g.async = true;
+    g.src = 'https://cdn.matomo.cloud/lorenz.matomo.cloud/container_xGRkVfpo.js';
+    s.parentNode.insertBefore(g, s);
+  }, []);
 
-const App = () => (
-  <BrowserRouter basename={PUBLIC_URL}>
-    <Suspense fallback={<Main />}>
-      <Routes>
-        <Route path="/" element={<About />} />
-        <Route path="/projects" element={<Projects />} />
-        <Route path="/blogs" element={<Blogs />} />
-        <Route path="/blogs/:blog" element={<BlogDetail />} />
-        <Route path="/stats" element={<Stats />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/cv" element={<CV />} />
+  return (
+    <BrowserRouter basename={PUBLIC_URL}>
+      <Suspense fallback={<Main />}>
+        <Routes>
+          <Route path="/" element={<About />} />
+          <Route path="/projects" element={<Projects />} />
+          <Route path="/blogs" element={<Blogs />} />
+          <Route path="/blogs/:blog" element={<BlogDetail />} />
+          <Route path="/stats" element={<Stats />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/cv" element={<CV />} />
 
-        <Route path="*" element={<NotFound />} />
-      </Routes>
-    </Suspense>
-  </BrowserRouter>
-);
+          <Route path="*" element={<NotFound />} />
+        </Routes>
+      </Suspense>
+    </BrowserRouter>
+  );
+};
 
 export default App;
