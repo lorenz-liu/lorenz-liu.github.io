@@ -10,7 +10,7 @@ const degrees = [
   {
     school: 'Beihang University',
     department: 'School of Computer Science and Engineering',
-    degree: 'B.Eng. in Computer Science and Technology',
+    degree: 'Bachelor of Engineering in Computer Science and Technology',
     link: 'https://buaa.edu.cn',
     year: 2019,
     end: 2023,

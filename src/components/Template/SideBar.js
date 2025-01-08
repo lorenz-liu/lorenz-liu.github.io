@@ -27,9 +27,9 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Zhaoxun &quot;Lorenz&quot; Liu. <br />
-        I am currently pursuing <a href="https://mscac.utoronto.ca" target="_blank" rel="noopener noreferrer">M.Sc. in Applied Computing at UofT CS</a>.
-        My interest falls in Human-AI Interaction. <br />
-        Fun fact: besides my profession in computer science, I am also an amateur cellist. <br />
+        I am a Team Lead in Machine Learning at <a href="https://temertysimcentre.com/surgical-artificial-intelligence-research-academy-sara/" target="_blank" rel="noopener noreferrer">the SARA Lab</a>, <a href="https://www.uhn.ca/" target="_blank" rel="noopener noreferrer">University Health Network (UHN)</a>.<br />
+        My interests are in interdisciplinary machine learning. <br />
+        I am also an amateur cellist. <br />
         🥂 Cheers!
       </p>
       <ul className="actions">
