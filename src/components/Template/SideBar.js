@@ -27,20 +27,20 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Zhaoxun &quot;Lorenz&quot; Liu. <br />
-        I am a Team Lead in Machine Learning at
+        I am a Team Lead in Machine Learning at&nbsp;
         <a
           href="https://temertysimcentre.com/surgical-artificial-intelligence-research-academy-sara/"
           target="_blank"
           rel="noopener noreferrer"
         >the SARA Lab
-        </a>,
+        </a>,&nbsp;
         <a
           href="https://www.uhn.ca/"
           target="_blank"
           rel="noopener noreferrer"
         >
           University Health Network (UHN)
-        </a>.<br />
+        </a>.&nbsp;<br />
         My interests are in interdisciplinary machine learning. <br />
         I am also an amateur cellist. <br />
         🥂 Cheers!
