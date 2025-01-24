@@ -79,6 +79,11 @@
 				}
 			}
 
+			&.vertical {
+				display: flex;
+				flex-direction: column;
+			}
+
 			&.pagination {
 				.next {
 					@include icon('', after);

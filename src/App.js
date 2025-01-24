@@ -16,6 +16,7 @@ const Blogs = lazy(() => import('./pages/Blogs'));
 const CV = lazy(() => import('./pages/CV'));
 const Stats = lazy(() => import('./pages/Stats'));
 const BlogDetail = lazy(() => import('./pages/BlogDetail'));
+const Tutoring = lazy(() => import('./pages/Tutoring'));
 
 const App = () => {
   // Matomo Analytics
@@ -42,6 +43,7 @@ const App = () => {
           <Route path="/stats" element={<Stats />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/cv" element={<CV />} />
+          <Route path="/tutoring" element={<Tutoring />} />
 
           <Route path="*" element={<NotFound />} />
         </Routes>
