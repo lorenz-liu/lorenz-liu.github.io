@@ -51,11 +51,6 @@ const SideBar = () => (
             ? <Link to="/cv" className="button">Curriculum Vitae</Link>
             : <Link to="/" className="button">About Me</Link>}
         </li>
-        <li>
-          <Link to="/tutoring" className="button orange">
-            Hire Me As Your Tutor
-          </Link>
-        </li>
       </ul>
     </section>
     <section id="footer">

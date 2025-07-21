@@ -12,13 +12,3 @@ I am an alumnus of the **[Master of Science in Applied Computing](https://mscac.
 For leisure, I play the cello and cook.
 
 ------
-
-# My Other Favorites
-
-* Food: Szechuan, Korean, Thai
-* Sports: Basketball, Billiards
-* Music: Soft Rock, City Pop, Jazz Funk, Soul, Classical
-* Band: Eagles, Durand Jones & The Indications
-* Artist: Claude Monet, Georges Seurat, Jason Anderson
-* Cellist: Jacqueline du Pré, Yo-Yo Ma, Mischa Maisky
-* Composer: Dvořák, Vivaldi, Tchaikovsky
